@@ -1,23 +1,42 @@
 = Julien Bonfillon - Solutions Developper
-Julien BONFILLON <julien.bonfillon@gmail.com>
+<julien.bonfillon@gmail.com>
 1.0, June 25, 2016, AsciiDoc formatted CV
-:toc:
 :icons: font
+:figure-caption!:
 :quick-uri: https://julienbonfillon.github.io
+
 ====
-image::img/profile.jpg[profile]
-[quote]
-Ambitious to develop and share 10 years of experience related to industrial, banking and retailing systems...
-[quote]
+image:img/profile.jpg[Profile, 120, role="left"]
+Transactional and banking systems +
+Implementation, Simulation, Tests and Certification 
+
+French – 30 years old – Single +
+International Skills: Spanish, French, English
+
+Skype: julien.bonfillon +
+FR: +33(9) 70 40 82 40  +
+ +				
+____
+Ambitious to develop and share 10 years of experience related to industrial, banking and retailing systems... +
+____
+____
 Excited to enhance my International Skills, my corporative and human values...
+____
+
+
+
 ====
+
+
 
 
 == First level heading
 
 This is a paragraph with a *bold* word and an _italicized_ word.
 
-.Image caption
+
+
+
 
 
 This is another paragraph.footnote:[I am footnote text and will be rendered at the bottom of the article.]
