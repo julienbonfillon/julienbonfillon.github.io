@@ -1,20 +1,24 @@
 = Julien Bonfillon - Solutions Developper
-	Transactional and commercial environment
-	Simulation, Tests and Certification 
-	Of banking Systems
- <julien.bonfillon@gmail.com>
+Julien BONFILLON <julien.bonfillon@gmail.com>
+1.0, June 25, 2016, AsciiDoc formatted CV
 :toc:
 :icons: font
 :quick-uri: https://julienbonfillon.github.io
+====
+image::img/profile.jpg[profile]
+[quote]
+Ambitious to develop and share 10 years of experience related to industrial, banking and retailing systems...
+[quote]
+Excited to enhance my International Skills, my corporative and human values...
+====
 
-Content entered directly below the header but before the first section heading is called the preamble.
 
 == First level heading
 
 This is a paragraph with a *bold* word and an _italicized_ word.
 
 .Image caption
-image::img/profile.jpg[profile_image]
+
 
 This is another paragraph.footnote:[I am footnote text and will be rendered at the bottom of the article.]
 
