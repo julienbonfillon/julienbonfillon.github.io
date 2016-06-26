@@ -2,7 +2,6 @@
 Julien BONFILLON <julien.bonfillon@gmail.com>
 :icons: font
 :figure-caption!:
-:table-caption!:
 :hide-uri-scheme:
 :quick-uri: https://julienbonfillon.github.io
 
@@ -25,9 +24,9 @@ ____
 == Working Experience
 
 === Solutions Developer: Tools and services in financial messaging
-.2015-Current Volante Technologies: Financial Data Message integration software (Mexico City – MEXICO)
 ====
-[cols="2*"]
+.2015-Current Volante Technologies: Financial Data Message Integration Software (Mexico City – MEXICO)
+[cols="2*",frame=none,grid=none,caption=]
 |===
 |icon:check[] E-Commerce Integration/Development (Prestashop), ASP.NET Services: Payment Solutions, membership and related service (electronic air-time, phone case personalization, prepaid multimedia content through Amazon CloudFront Services).
 |icon:check[] MySQL Database Design: Business Rules for Internet Payment, audit and membership/multimedia services.
@@ -37,9 +36,9 @@ ____
 ====
 
 === Analyst/Developer: Tools and services in transactional and logistic environment
-.2014-2015	e-Networkx: Transactional Infrastructures and Informatics Engineering (Mexico City – MEXICO) 
 ====
-[cols="2*"]
+.2014-2015	e-Networkx: Transactional Infrastructures and Informatics Engineering (Mexico City – MEXICO) 
+[cols="2*",frame=none,grid=none,caption=]
 |===
 |icon:check[] E-Commerce Integration/Development (Prestashop), ASP.NET Services: Payment Solutions, membership and related service (electronic air-time, phone case personalization, prepaid multimedia content through Amazon CloudFront Services).
 |icon:check[] MySQL Database Design: Business Rules for Internet Payment, audit and membership/multimedia services.
@@ -49,9 +48,9 @@ ____
 ====
 
 === Software Consultant: Simulation, Test and Qualification of Payment and Banking Systems 
-.2008-2014	Galitt: Transactional flow, Cards, Terminal and Hosts Simulators (FRONTIGNAN - FRANCE)
 ====
-[cols="2*"]
+.2008-2014	Galitt: Transactional flow, Cards, Terminal and Hosts Simulators (FRONTIGNAN - FRANCE)
+[cols="2*",frame=none,grid=none,caption=]
 |===
 |icon:check[] Terminal and Cards Test and Approval Tools: EMV, VISA, MasterCard y American Express.
 |icon:check[] Issuing/Acquiring Host Simulators: qualification approval of the Discover Financial Services (DFS) and National Payment Corporation of India (NPCI) affiliated banks.
@@ -61,9 +60,9 @@ ____
 ====
 
 === Developer: Industrial Automatism (Unix and Windows Systems)
-.2006 - 2008	Axiome Concept: Centralized Building Management Systems (Cannes - FRANCE)
 ====
-[cols="2*"]
+.2006 - 2008	Axiome Concept: Centralized Building Management Systems (Cannes - FRANCE)
+[cols="2*",frame=none,grid=none,caption=]
 |===
 |icon:check[] Communication Software for building management: interphones, access control, lighting (numeric control, RS, IP, MODBUS...).
 |icon:check[] Video Acquisition for centralized management software: MPEG4/MJPEG cameras over IP.
