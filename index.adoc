@@ -1,6 +1,7 @@
 = Solutions Developper - Transactions / Banking
 Julien BONFILLON <julien.bonfillon@gmail.com>
 :icons: font
+:toc: left
 :figure-caption!:
 :hide-uri-scheme:
 :quick-uri: https://julienbonfillon.github.io
@@ -8,16 +9,16 @@ Julien BONFILLON <julien.bonfillon@gmail.com>
 ====
 image:img/profile.jpg[Profile, 110, role="left"]
 Software implementation for Operation, Simulation, Tests and Certification +
-French – 31 years old – Single +
+French, 31, Almost married (don't tell anybody...) +
 icon:volume-up[] FR - EN - ES
 
 icon:phone[] +33(9) 70 40 82 40  / +52(1) 55 25 70 20 63 +
-icon:skype[role="blue"] julien.bonfillon / icon:linkedin[role="blue"] https://www.linkedin.com/in/julienbonfillon[julienbonfillon] +
+icon:skype[] julien.bonfillon / icon:linkedin[] https://www.linkedin.com/in/julienbonfillon[julienbonfillon] +
 ____
-A 10 years experience about industrial, banking and retailing systems... +
+A 10 years experience in industrial, banking and retailing systems... +
 ____
 ____
-Excited to have international relationship , carrying about corporative and human values...
+International colaborations , carrying about corporative and human values...
 ____
 ====
 
@@ -28,9 +29,9 @@ ____
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|icon:check[] Front-end maintenance & Implementation definition/participation: JAVA Enterprise RESTful services & Server Side Datatable APIs  (Hibernate). Strong colaboration with pre-Sale, Web-designer and Software Arquitect in order to optimize and validate the project milestones delivery. 
-|icon:check[] Back-end products : Multi-modal ligthweight and modular JAVA Notification product, with string integration possibilities (per API, per Message Queue, standalone or in Application Server).
-|icon:check[] Strong investigation about Continued Integration methods: Study of Maven artefacting methods and Private Sonatype Nexus Enterprise in order to separate source code storing and packaging external dependencies.
+|icon:check[] **Front-end maintenance & Implementation definition/participation** : JAVA Enterprise RESTful services & Server Side Datatable APIs  (Hibernate). Strong colaboration with pre-Sale, Web-designer and Software Arquitect in order to optimize and validate the project milestones delivery. 
+|icon:check[] **Back-end products** : Multi-modal ligthweight and modular JAVA Notification product, with strong integration possibilities using Apache CAMEL and Spring (API, per Message Queue, standalone or in Application Server).
+|icon:check[] **Strong investigation about Continued Integration methods** : Study of Maven artefacting methods and Private Sonatype Nexus Enterprise in order to separate source code storing and packaging external dependencies.
 |
 |===
 ====
@@ -40,9 +41,9 @@ ____
 ==== 
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|icon:check[] E-Commerce Integration/Development (Prestashop), ASP.NET Services: Payment Solutions, membership and related service (pre-paid telephonic plan, phone case personalization, prepaid multimedia content through Amazon CloudFront Services).
-|icon:check[] MySQL Database Design: Business Rules for Internet Payment, audit, membership & multimedia services.
-|icon:check[] JAVA Tools Development: network systems monitor, conciliation files validation, Post Directions referencing and synchronization, Transactional Reporting (Tomcat web-services).
+|icon:check[] **E-Commerce Integration/Development (Prestashop), ASP.NET Services** : Payment Solutions, membership and related service (pre-paid telephonic plan, phone case personalization, prepaid multimedia content through Amazon CloudFront Services).
+|icon:check[] **MySQL Database Design** : Business Rules for Internet Payment, audit, membership & multimedia services.
+|icon:check[] **JAVA Tools Development** : Network systems monitor, conciliation files validation, Post Directions referencing and synchronization, Transactional Reporting (Tomcat web-services).
 |
 |===
 ====
@@ -52,10 +53,10 @@ ____
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|icon:check[] Terminal and Cards Test and Approval Tools: EMV, VISA, MasterCard y American Express.
-|icon:check[] Issuing/Acquiring Host Simulators: qualification approval of the Discover Financial Services (DFS) and National Payment Corporation of India (NPCI) affiliated banks.
-|icon:check[] Obtainment of Test Tools Qualification Agreements: EMVCo, DFS y NPCI.
-|icon:check[] International Customers Support and Training (Workshops, Remote Support Sessions, Travels in France and to India).
+|icon:check[] **Terminal and Cards Test and Approval Tools** : EMV, VISA, MasterCard y American Express.
+|icon:check[] **Issuing/Acquiring Host Simulators** : Qualification approval of the Discover Financial Services (DFS) and National Payment Corporation of India (NPCI) affiliated banks.
+|icon:check[] **Obtainment of Test Tools Qualification Agreements** : EMVCo, DFS y NPCI.
+|icon:check[] **International Customers Support and Training** : Workshops, Remote Support Sessions, Travels in France and to India.
 |===
 ====
 
@@ -64,8 +65,8 @@ ____
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|icon:check[] Communication Software for building management: interphones, access control, lighting (numeric control, RS, IP, MODBUS...).
-|icon:check[] Video Acquisition for centralized management software: MPEG4/MJPEG cameras over IP.
+|icon:check[] **Communication Software for building management** : Interphones, access control, lighting (numeric control, RS, IP, MODBUS...).
+|icon:check[] **Video Acquisition for centralized management software** : MPEG4/MJPEG cameras over IP.
 |===
 ====
 
@@ -80,37 +81,46 @@ ____
 
 == Skills
 ====
-Team communication and reporting +
+[cols="2*",frame=none,grid=none,caption=]
+|===
+|**Proactive Team interaction** +
 Fench (mother tongue), English (technical), Spanish (bilingual) +
-Project Taks definition matching with Implementation requirements
+Internal communication and reporting +
+Milestone definition, matching with Implementation requirements
 
-JAVA, C#/VB.NET, VB6, PHP5, SQL, C/C++, Javascript/jQuery;
+|**Programmation Languages** +
+JAVA, C#/VB.NET, VB6, PHP5, SQL, C/C++, Javascript/jQuery; +
 HTML5/CSS3;
 
-JPA 2.0/2.1: Hibernate, JPA Modeling, JPQL, API Criteria and predication;
-SOAP, RestFul, HTTP, TCP/UDP IP;
+|**APIs & Frameworks** +
+JPA 2.0/2.1: Hibernate, JPA Modeling, JPQL, API Criteria and predication; +
+JMS : ActiveMQ, JBOss Rabit MQ and Web Logic MQ consuming; +
+SOAP, RestFul, HTTP, TCP/UDP IP; +
+Spring, Apache CAMEL;
 
-Payment Schemes: EMV Level 2/Entry Point, VISA/Paywave, MasterCard/Paypass, Diners Club International/Discover in Contact/Contactless context.
+|**Payment Schemes** +
+EMV Level 2/Entry Point, VISA/Paywave, MasterCard/Paypass, Diners Club International/Discover in Contact/Contactless context.
 
-Eclipse,NetBeans 7/8, Visual Studio 2010;
-Maven
-
-Github, SVN, MS.VSS; +
+|**Software and Integration Tools** +
+Eclipse,NetBeans 7/8, Volante Designer 5+, Visual Studio 2010; +
+Maven, Github, SVN, MS.VSS; +
 Amazon Web Service: S3 Bucket, CloudFront, EC2, RDS, Elastic Transcoder; +
 Transaction Simulators: Galitt KaNest®, KaNest®-ICC; +
 Webinar: Webex, Team Viewer;
 
-Apache, JBoss 6, WebLogic, Tomcat, Sonatype Nexus
-eCommerce: PrestaShop;
-Oracle, MySQL, HSQLDB
-
-Windows 2000/XP/7, RedHat Enterprise6/CentOS 7, AIX,
+|**Developping under Web, Application and DataBase Servers** +
+Apache, NginX Proxy, JBoss 6, WebLogic, Tomcat, Sonatype Nexus +
+eCommerce: PrestaShop; +
+Oracle, MySQL, HSQLDB; +
+Windows 2000/XP/7, RedHat Enterprise6/CentOS 7, AIX;
+|===
 ====
 
-== About
+== Personal  Interests
 ====
-Photography (since 2011) icon:flickr[] http://www.flickr.com/photos/julien-bonfillon/albums[Visit My Galery] +
-Psychology and self improvement +
-Music (drum clases in 2012) +
-Motorcycling Association http://www.evasionmoto34.com/[Evasion Moto] (2010-2012)
+**Photography** (since 2011), fan of Canon products icon:flickr[] http://www.flickr.com/photos/julien-bonfillon/albums[Visit My Galery]. +
+**Environment lover** (secretly): Reading & Following biologist and agricultors news : Claude Bourguignon, Pierre Raby, .... +
+**Psychology and self improvement**. +
+**Music** (drum clases in 2012). +
+**Motorcycle Association** (participated in 2010-2012) focused in culture and safety http://www.evasionmoto34.com/[Evasion Moto].
 ====
