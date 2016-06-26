@@ -9,23 +9,23 @@ Julien BONFILLON <julien.bonfillon@gmail.com>
 image:img/profile.jpg[Profile, 110, role="left"]
 Implementation, Simulation, Tests and Certification +
 French – 31 years old – Single +
-icon:volume-up[] FR (mother tongue), EN (technical), ES (bilingual)
+icon:volume-up[] FR - EN - ES
 
 icon:phone[] +33(9) 70 40 82 40  / +52(1) 55 25 70 20 63 +
 icon:skype[role="blue"] julien.bonfillon / icon:linkedin[role="blue"] https://www.linkedin.com/in/julienbonfillon[julienbonfillon] +
 ____
-Sharing and enhancing 10 years of experience about industrial, banking and retailing systems... +
+A 10 years experience about industrial, banking and retailing systems... +
 ____
 ____
-Excited to have international relationship and constantly carrying of corporative and human values...
+Excited to have international relationship , carrying about corporative and human values...
 ____
 ====
 
 == Working Experience
 
 === Solutions Developer: Tools and services in financial messaging
+===== **__Since 2015 - Volante Technologies: Financial Data Message Integration Software (Mexico City – MEXICO)__**
 ====
-.2015-Current Volante Technologies: Financial Data Message Integration Software (Mexico City – MEXICO)
 [cols="2*",frame=none,grid=none,caption=]
 |===
 |icon:check[] E-Commerce Integration/Development (Prestashop), ASP.NET Services: Payment Solutions, membership and related service (electronic air-time, phone case personalization, prepaid multimedia content through Amazon CloudFront Services).
@@ -36,8 +36,8 @@ ____
 ====
 
 === Analyst/Developer: Tools and services in transactional and logistic environment
-====
-.2014-2015	e-Networkx: Transactional Infrastructures and Informatics Engineering (Mexico City – MEXICO) 
+=====  **__2014-2015 - e-Networkx: Transactional Infrastructures and Informatics Engineering (Mexico City – MEXICO)__**
+==== 
 [cols="2*",frame=none,grid=none,caption=]
 |===
 |icon:check[] E-Commerce Integration/Development (Prestashop), ASP.NET Services: Payment Solutions, membership and related service (electronic air-time, phone case personalization, prepaid multimedia content through Amazon CloudFront Services).
@@ -48,8 +48,8 @@ ____
 ====
 
 === Software Consultant: Simulation, Test and Qualification of Payment and Banking Systems 
+===== **__2008-2014 - Galitt: Transactional flow, Cards, Terminal and Hosts Simulators (FRONTIGNAN - FRANCE)__**
 ====
-.2008-2014	Galitt: Transactional flow, Cards, Terminal and Hosts Simulators (FRONTIGNAN - FRANCE)
 [cols="2*",frame=none,grid=none,caption=]
 |===
 |icon:check[] Terminal and Cards Test and Approval Tools: EMV, VISA, MasterCard y American Express.
@@ -60,8 +60,8 @@ ____
 ====
 
 === Developer: Industrial Automatism (Unix and Windows Systems)
+===== **__2006 - 2008 - Axiome Concept: Centralized Building Management Systems (Cannes - FRANCE)__**
 ====
-.2006 - 2008	Axiome Concept: Centralized Building Management Systems (Cannes - FRANCE)
 [cols="2*",frame=none,grid=none,caption=]
 |===
 |icon:check[] Communication Software for building management: interphones, access control, lighting (numeric control, RS, IP, MODBUS...).
@@ -82,6 +82,8 @@ ____
 
 == Skills
 ====
+FR (mother tongue), EN (technical), ES (bilingual)
+
 JAVA, C#/VB.NET, VB6, PHP, C/C++, Javascript/jQuery;
 HTML5/CSS3, Ajax, XML, JSON;
 SOAP, RestFul, HTTP, TCP/UDP IP, RS232/485;
@@ -102,8 +104,8 @@ Windows 2000/XP/7, RedHat Enterprise6, AIX,
 
 == Other interests
 ====
-Photography icon:flickr[] http://www.flickr.com/photos/julien-bonfillon/albums[Visit My Galery] +
-Personal and psychologic self development +
+Photography (since 2011) icon:flickr[] http://www.flickr.com/photos/julien-bonfillon/albums[Visit My Galery] +
+Psychology and self improvement +
 Music (drum clases in 2012) +
 Motorcycling Association http://www.evasionmoto34.com/[Evasion Moto] (2010-2012)
 ====
