@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?asciidoc-toc?>
+<?asciidoc-numbered?>
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
+<info>
+<title>Solutions Developper - Transactions / Banking</title>
+<date>2016-06-26</date>
+<author>
+<personname>
+<firstname>Julien</firstname>
+<surname>BONFILLON</surname>
+</personname>
+<email>julien.bonfillon@gmail.com</email>
+</author>
+<authorinitials>JB</authorinitials>
+</info>
+<preface>
+<title></title>
+<informalexample>
+<simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="img/profile.jpg" contentwidth="110"/>
+</imageobject>
+<textobject><phrase>Profile</phrase></textobject>
+</inlinemediaobject>
+Implementation, Simulation, Tests and Certification<?asciidoc-br?>
+French – 31 years old – Single<?asciidoc-br?>
+<inlinemediaobject>
+<imageobject>
+<imagedata fileref="./images/icons/volume-up.png"/>
+</imageobject>
+<textobject><phrase>volume up</phrase></textobject>
+</inlinemediaobject> FR (mother tongue), EN (technical), ES (bilingual)</simpara>
+<simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="./images/icons/phone.png"/>
+</imageobject>
+<textobject><phrase>phone</phrase></textobject>
+</inlinemediaobject> +33(9) 70 40 82 40  / +52(1) 55 25 70 20 63<?asciidoc-br?>
+<inlinemediaobject>
+<imageobject>
+<imagedata fileref="./images/icons/skype.png"/>
+</imageobject>
+<textobject><phrase>skype</phrase></textobject>
+</inlinemediaobject> julien.bonfillon / <inlinemediaobject>
+<imageobject>
+<imagedata fileref="./images/icons/linkedin.png"/>
+</imageobject>
+<textobject><phrase>linkedin</phrase></textobject>
+</inlinemediaobject> <link xl:href="https://www.linkedin.com/in/julienbonfillon">julienbonfillon</link><?asciidoc-br?></simpara>
+<blockquote>
+<simpara>Sharing and enhancing 10 years of experience about industrial, banking and retailing systems&#8230;&#8203;<?asciidoc-br?></simpara>
+</blockquote>
+<blockquote>
+<simpara>Excited to have international relationship and constantly carrying of corporative and human values&#8230;&#8203;</simpara>
+</blockquote>
+</informalexample>
+</preface>
+<chapter xml:id="_working_experience">
+<title>Working Experience</title>
+<section xml:id="_solutions_developer_tools_and_services_in_financial_messaging">
+<title>Solutions Developer: Tools and services in financial messaging</title>
+<informalexample>
+<table frame="none" rowsep="0" colsep="0">
+<title>2015-Current Volante Technologies: Financial Data Message Integration Software (Mexico City – MEXICO)</title>
+<tgroup cols="2">
+<colspec colname="col_1" colwidth="50*"/>
+<colspec colname="col_2" colwidth="50*"/>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="./images/icons/check.png"/>
+</imageobject>
+<textobject><phrase>check</phrase></textobject>
+</inlinemediaobject> E-Commerce Integration/Development (Prestashop), ASP.NET Services: Payment Solutions, membership and related service (electronic air-time, phone case personalization, prepaid multimedia content through Amazon CloudFront Services).</simpara></entry>
+<entry align="left" valign="top"><simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="./images/icons/check.png"/>
+</imageobject>
+<textobject><phrase>check</phrase></textobject>
+</inlinemediaobject> MySQL Database Design: Business Rules for Internet Payment, audit and membership/multimedia services.</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="./images/icons/check.png"/>
+</imageobject>
+<textobject><phrase>check</phrase></textobject>
+</inlinemediaobject> JAVA Tools Development: network systems monitor, conciliation files validation, Post Directions referencing and synchronization, Transactional Reporting (Tomcat web-services).</simpara></entry>
+<entry align="left" valign="top"></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</informalexample>
+</section>
+<section xml:id="_analyst_developer_tools_and_services_in_transactional_and_logistic_environment">
+<title>Analyst/Developer: Tools and services in transactional and logistic environment</title>
+<informalexample>
+<table frame="none" rowsep="0" colsep="0">
+<title>2014-2015	e-Networkx: Transactional Infrastructures and Informatics Engineering (Mexico City – MEXICO)</title>
+<tgroup cols="2">
+<colspec colname="col_1" colwidth="50*"/>
+<colspec colname="col_2" colwidth="50*"/>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="./images/icons/check.png"/>
+</imageobject>
+<textobject><phrase>check</phrase></textobject>
+</inlinemediaobject> E-Commerce Integration/Development (Prestashop), ASP.NET Services: Payment Solutions, membership and related service (electronic air-time, phone case personalization, prepaid multimedia content through Amazon CloudFront Services).</simpara></entry>
+<entry align="left" valign="top"><simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="./images/icons/check.png"/>
+</imageobject>
+<textobject><phrase>check</phrase></textobject>
+</inlinemediaobject> MySQL Database Design: Business Rules for Internet Payment, audit and membership/multimedia services.</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="./images/icons/check.png"/>
+</imageobject>
+<textobject><phrase>check</phrase></textobject>
+</inlinemediaobject> JAVA Tools Development: network systems monitor, conciliation files validation, Post Directions referencing and synchronization, Transactional Reporting (Tomcat web-services).</simpara></entry>
+<entry align="left" valign="top"></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</informalexample>
+</section>
+<section xml:id="_software_consultant_simulation_test_and_qualification_of_payment_and_banking_systems">
+<title>Software Consultant: Simulation, Test and Qualification of Payment and Banking Systems</title>
+<informalexample>
+<table frame="none" rowsep="0" colsep="0">
+<title>2008-2014	Galitt: Transactional flow, Cards, Terminal and Hosts Simulators (FRONTIGNAN - FRANCE)</title>
+<tgroup cols="2">
+<colspec colname="col_1" colwidth="50*"/>
+<colspec colname="col_2" colwidth="50*"/>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="./images/icons/check.png"/>
+</imageobject>
+<textobject><phrase>check</phrase></textobject>
+</inlinemediaobject> Terminal and Cards Test and Approval Tools: EMV, VISA, MasterCard y American Express.</simpara></entry>
+<entry align="left" valign="top"><simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="./images/icons/check.png"/>
+</imageobject>
+<textobject><phrase>check</phrase></textobject>
+</inlinemediaobject> Issuing/Acquiring Host Simulators: qualification approval of the Discover Financial Services (DFS) and National Payment Corporation of India (NPCI) affiliated banks.</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="./images/icons/check.png"/>
+</imageobject>
+<textobject><phrase>check</phrase></textobject>
+</inlinemediaobject> Obtainment of Test Tools Qualification Agreements: EMVCo, DFS y NPCI.</simpara></entry>
+<entry align="left" valign="top"><simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="./images/icons/check.png"/>
+</imageobject>
+<textobject><phrase>check</phrase></textobject>
+</inlinemediaobject> International Customers Support and Training (Workshops, Remote Support Sessions, Travels in France and to India).</simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</informalexample>
+</section>
+<section xml:id="_developer_industrial_automatism_unix_and_windows_systems">
+<title>Developer: Industrial Automatism (Unix and Windows Systems)</title>
+<informalexample>
+<table frame="none" rowsep="0" colsep="0">
+<title>2006 - 2008	Axiome Concept: Centralized Building Management Systems (Cannes - FRANCE)</title>
+<tgroup cols="2">
+<colspec colname="col_1" colwidth="50*"/>
+<colspec colname="col_2" colwidth="50*"/>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="./images/icons/check.png"/>
+</imageobject>
+<textobject><phrase>check</phrase></textobject>
+</inlinemediaobject> Communication Software for building management: interphones, access control, lighting (numeric control, RS, IP, MODBUS&#8230;&#8203;).</simpara></entry>
+<entry align="left" valign="top"><simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="./images/icons/check.png"/>
+</imageobject>
+<textobject><phrase>check</phrase></textobject>
+</inlinemediaobject> Video Acquisition for centralized management software: MPEG4/MJPEG cameras over IP.</simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</informalexample>
+</section>
+</chapter>
+<chapter xml:id="_education">
+<title>Education</title>
+<informalexample>
+<formalpara>
+<title><inlinemediaobject>
+<imageobject>
+<imagedata fileref="./images/icons/check.png"/>
+</imageobject>
+<textobject><phrase>check</phrase></textobject>
+</inlinemediaobject> Bachelor’s degree in Networks and Telecommunications – Embedded Systems Engineering</title>
+<para>2006 University of Nice Côte d’Azur (NICE - FRANCE).</para>
+</formalpara>
+<formalpara>
+<title><inlinemediaobject>
+<imageobject>
+<imagedata fileref="./images/icons/check.png"/>
+</imageobject>
+<textobject><phrase>check</phrase></textobject>
+</inlinemediaobject> University degree in technology – Electrical Engineering and Industrial Data Processing.</title>
+<para>2003 – 2005	University of Nice Côte d’Azur (NICE - FRANCE).</para>
+</formalpara>
+</informalexample>
+</chapter>
+<chapter xml:id="_skills">
+<title>Skills</title>
+<informalexample>
+<simpara>JAVA, C#/VB.NET, VB6, PHP, C/C++, Javascript/jQuery;
+HTML5/CSS3, Ajax, XML, JSON;
+SOAP, RestFul, HTTP, TCP/UDP IP, RS232/485;</simpara>
+<simpara>Payment Schemes: EMV Level 2/Entry Point, VISA/Paywave, MasterCard/Paypass, Diners Club International/ Discover in Contact/Contactless context.</simpara>
+<simpara>NetBeans 7/8, Visual Studio 2010;
+eCommerce: PrestaShop;
+SoapUI, WireShark, SVN, MS.VSS;
+Amazon S3 Services: Bucket, CloudFront;
+Transaction Simulators: Galitt KaNest®, KaNest®-ICC;
+Webinar (Webex, Team Viewer);</simpara>
+<simpara>Oracle, MySQL, Apache, Tomcat</simpara>
+<simpara>Windows 2000/XP/7, RedHat Enterprise6, AIX,</simpara>
+</informalexample>
+</chapter>
+<chapter xml:id="_other_interests">
+<title>Other interests</title>
+<informalexample>
+<simpara>Photography <inlinemediaobject>
+<imageobject>
+<imagedata fileref="./images/icons/flickr.png"/>
+</imageobject>
+<textobject><phrase>flickr</phrase></textobject>
+</inlinemediaobject> <link xl:href="http://www.flickr.com/photos/julien-bonfillon/albums">Visit My Galery</link><?asciidoc-br?>
+Personal and psychologic self development<?asciidoc-br?>
+Music (drum clases in 2012)<?asciidoc-br?>
+Motorcycling Association <link xl:href="http://www.evasionmoto34.com/">Evasion Moto</link> (2010-2012)</simpara>
+</informalexample>
+</chapter>
+</book>
