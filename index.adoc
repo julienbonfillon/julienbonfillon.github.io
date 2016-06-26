@@ -9,11 +9,11 @@ Julien BONFILLON <julien.bonfillon@gmail.com>
 ====
 image:img/profile.jpg[Profile, 110, role="left"]
 Software implementation for Operation, Simulation, Tests and Certification +
-French, 31, Almost married (don't tell anybody...) +
+French, 31, Almost married +
 icon:volume-up[] FR - EN - ES
 
-icon:phone[] +33(9) 70 40 82 40  / +52(1) 55 25 70 20 63 +
-icon:skype[] julien.bonfillon / icon:linkedin[] https://www.linkedin.com/in/julienbonfillon[julienbonfillon] +
+icon:phone[]+33(9) 70 40 82 40  / +52(1) 55 25 70 20 63 +
+icon:skype[]julien.bonfillon / icon:linkedin[]https://www.linkedin.com/in/julienbonfillon[julienbonfillon] +
 ____
 A 10 years experience in industrial, banking and retailing systems... +
 ____
@@ -29,9 +29,9 @@ ____
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|icon:check[] **Front-end Maintenance, Implementation, Definition & Participation** : JAVA Enterprise RESTful services & Server Side Datatable APIs  (Hibernate). Strong colaboration with pre-Sale, Web-designer and Software Arquitect in order to optimize and validate the project milestones delivery. 
-|icon:check[] **Back-end products** : Multi-modal ligthweight and modular JAVA Notification product, with strong integration possibilities using Apache CAMEL and Spring (API, per Message Queue, standalone or in Application Server).
-|icon:check[] **Strong investigation about Continued Integration methods** : Study of Maven artefacting methods and Private Sonatype Nexus Enterprise in order to separate source code storing and packaging external dependencies.
+|**Front-end Maintenance, Implementation, Definition & Participation** : JAVA Enterprise RESTful services & Server Side Datatable APIs  (Hibernate). Strong colaboration with pre-Sale, Web-designer and Software Arquitect in order to optimize and validate the project milestones delivery. 
+|**Back-end products** : Multi-modal ligthweight and modular JAVA Notification product, with strong integration possibilities using Apache CAMEL and Spring (API, per Message Queue, standalone or in Application Server).
+|**Strong investigation about Continued Integration methods** : Study of Maven artefacting methods and Private Sonatype Nexus Enterprise in order to separate source code storing and packaging external dependencies.
 |
 |===
 ====
@@ -41,9 +41,9 @@ ____
 ==== 
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|icon:check[] **E-Commerce Integration & Development (Prestashop), ASP.NET Services** : Payment Solutions, membership and related service (pre-paid telephonic plan, phone case personalization, prepaid multimedia content through Amazon CloudFront Services).
-|icon:check[] **MySQL Database Design** : Business Rules for Internet Payment, audit, membership & multimedia services.
-|icon:check[] **JAVA Tools Development** : Network systems monitor, conciliation files validation, Post Directions referencing and synchronization, Transactional Reporting (Tomcat web-services).
+|**E-Commerce Integration & Development (Prestashop), ASP.NET Services** : Payment Solutions, membership and related service (pre-paid telephonic plan, phone case personalization, prepaid multimedia content through Amazon CloudFront Services).
+|**MySQL Database Design** : Business Rules for Internet Payment, audit, membership & multimedia services.
+|**JAVA Tools Development** : Network systems monitor, conciliation files validation, Post Directions referencing and synchronization, Transactional Reporting (Tomcat web-services).
 |
 |===
 ====
@@ -53,10 +53,10 @@ ____
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|icon:check[] **Terminal and Cards Test and Approval Tools** : EMV, VISA, MasterCard y American Express.
-|icon:check[] **Issuing & Acquiring Host Simulators** : Qualification approval of the Discover Financial Services (DFS) and National Payment Corporation of India (NPCI) affiliated banks.
-|icon:check[] **Obtainment of Test Tools Qualification Agreements** : EMVCo, DFS y NPCI.
-|icon:check[] **International Customers Support and Training** : Workshops, Remote Support Sessions, Travels in France and to India.
+|**Terminal and Cards Test and Approval Tools** : EMV, VISA, MasterCard y American Express.
+|**Issuing & Acquiring Host Simulators** : Qualification approval of the Discover Financial Services (DFS) and National Payment Corporation of India (NPCI) affiliated banks.
+|**Obtainment of Test Tools Qualification Agreements** : EMVCo, DFS y NPCI.
+|**International Customers Support and Training** : Workshops, Remote Support Sessions, Travels in France and to India.
 |===
 ====
 
@@ -65,8 +65,8 @@ ____
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|icon:check[] **Communication Software for building management** : Interphones, access control, lighting (numeric control, RS, IP, MODBUS...).
-|icon:check[] **Video Acquisition for centralized management software** : MPEG4/MJPEG cameras over IP.
+|**Communication Software for building management** : Interphones, access control, lighting (numeric control, RS, IP, MODBUS...).
+|**Video Acquisition for centralized management software** : MPEG4/MJPEG cameras over IP.
 |===
 ====
 
@@ -89,17 +89,17 @@ Internal communication and reporting +
 Milestone definition, matching with Implementation requirements
 
 |**Programmation Languages** +
-JAVA, C#/VB.NET, VB6, PHP5, SQL, C/C++, Javascript/jQuery; +
+JAVA, C#, VB.NET, VB6, PHP5, SQL, C, C++, Javascript, jQuery; +
 HTML5/CSS3;
 
-|**APIs & Frameworks** +
+|**APIs, Frameworks & Protocols** +
 JPA 2.0/2.1: Hibernate, JPA Modeling, JPQL, API Criteria and predication; +
 JMS : ActiveMQ, JBOss Rabit MQ and Web Logic MQ consuming; +
 SOAP, RestFul, HTTP, TCP/UDP IP; +
 Spring, Apache CAMEL;
 
 |**Payment Schemes** +
-EMV Level 2/Entry Point, VISA/Paywave, MasterCard/Paypass, Diners Club International/Discover in Contact/Contactless context.
+EMV Level 2 & Entry Point, VISA/ Paywave, MasterCard/ Paypass, Diners Club International/ Discover in Contact & Contactless context.
 
 |**Software and Integration Tools** +
 Eclipse,NetBeans 7/8, Volante Designer 5+, Visual Studio 2010; +
@@ -112,7 +112,7 @@ Webinar: Webex, Team Viewer;
 Apache, NginX Proxy, JBoss 6, WebLogic, Tomcat, Sonatype Nexus +
 eCommerce: PrestaShop; +
 Oracle, MySQL, HSQLDB; +
-Windows 2000/XP/7, RedHat Enterprise6/CentOS 7, AIX;
+Windows 2000/XP/7, RedHat Enterprise6, CentOS 7, IBM AIX;
 |===
 ====
 
