@@ -1,7 +1,7 @@
 = Solutions Developper - Transactions / Banking
 Julien BONFILLON <julien.bonfillon@gmail.com>
 :icons: font
-:toc: left
+//:toc:left
 :figure-caption!:
 :hide-uri-scheme:
 :quick-uri: https://julienbonfillon.github.io
@@ -119,7 +119,7 @@ Windows 2000/XP/7, RedHat Enterprise6, CentOS 7, IBM AIX;
 == Personal  Interests
 ====
 **Photography** (since 2011), fan of Canon products icon:flickr[] http://www.flickr.com/photos/julien-bonfillon/albums[Visit My Galery]. +
-**Environment lover** (secretly): Reading & Following biologist and agricultors news : Claude Bourguignon, Pierre Raby, .... +
+**Environment lover** (secretly): Reading & Following biologist and agricultors news : Claude Bourguignon, Pierre Rabhi, .... +
 **Psychology and self improvement**. +
 **Music** (drum clases in 2012). +
 **Motorcycle Association** (participated in 2010-2012) focused in culture and safety http://www.evasionmoto34.com/[Evasion Moto].
