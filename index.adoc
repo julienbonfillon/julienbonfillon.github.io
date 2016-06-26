@@ -23,14 +23,14 @@ ____
 
 == Working
 
-=== Solutions Developer: Tools and services in financial messaging
-===== **__Since 2015 - Volante Technologies: Financial Data Message Integration Software (Mexico City – MEXICO)__**
+=== Solutions Developer: Front-end Implementation and Services in financial messaging
+===== **__Since 2015 - Volante Technologies México: Financial Data Message Integration Software (Mexico City – MEXICO)__**
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|icon:check[] E-Commerce Integration/Development (Prestashop), ASP.NET Services: Payment Solutions, membership and related service (electronic air-time, phone case personalization, prepaid multimedia content through Amazon CloudFront Services).
-|icon:check[] MySQL Database Design: Business Rules for Internet Payment, audit, membership & multimedia services.
-|icon:check[] JAVA Tools Development: network systems monitor, conciliation files validation, Post Directions referencing and synchronization, Transactional Reporting (Tomcat web-services).
+|icon:check[] Front-end maintenance & Implementation definition/participation: JAVA Enterprise RESTful services & Server Side Datatable APIs  (Hibernate). Strong colaboration with pre-Sale, Web-designer and Software Arquitect in order to optimize and validate the project milestones delivery. 
+|icon:check[] Back-end products : Multi-modal ligthweight and modular JAVA Notification product, with string integration possibilities (per API, per Message Queue, standalone or in Application Server).
+|icon:check[] Strong investigation about Continued Integration methods: Study of Maven artefacting methods and Private Sonatype Nexus Enterprise in order to separate source code storing and packaging external dependencies.
 |
 |===
 ====
@@ -40,7 +40,7 @@ ____
 ==== 
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|icon:check[] E-Commerce Integration/Development (Prestashop), ASP.NET Services: Payment Solutions, membership and related service (electronic air-time, phone case personalization, prepaid multimedia content through Amazon CloudFront Services).
+|icon:check[] E-Commerce Integration/Development (Prestashop), ASP.NET Services: Payment Solutions, membership and related service (pre-paid telephonic plan, phone case personalization, prepaid multimedia content through Amazon CloudFront Services).
 |icon:check[] MySQL Database Design: Business Rules for Internet Payment, audit, membership & multimedia services.
 |icon:check[] JAVA Tools Development: network systems monitor, conciliation files validation, Post Directions referencing and synchronization, Transactional Reporting (Tomcat web-services).
 |
@@ -107,7 +107,7 @@ Oracle, MySQL, HSQLDB
 Windows 2000/XP/7, RedHat Enterprise6/CentOS 7, AIX,
 ====
 
-== Other interests
+== About
 ====
 Photography (since 2011) icon:flickr[] http://www.flickr.com/photos/julien-bonfillon/albums[Visit My Galery] +
 Psychology and self improvement +
