@@ -29,7 +29,7 @@ ____
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|icon:check[] **Front-end maintenance & Implementation definition/participation** : JAVA Enterprise RESTful services & Server Side Datatable APIs  (Hibernate). Strong colaboration with pre-Sale, Web-designer and Software Arquitect in order to optimize and validate the project milestones delivery. 
+|icon:check[] **Front-end Maintenance, Implementation, Definition & Participation** : JAVA Enterprise RESTful services & Server Side Datatable APIs  (Hibernate). Strong colaboration with pre-Sale, Web-designer and Software Arquitect in order to optimize and validate the project milestones delivery. 
 |icon:check[] **Back-end products** : Multi-modal ligthweight and modular JAVA Notification product, with strong integration possibilities using Apache CAMEL and Spring (API, per Message Queue, standalone or in Application Server).
 |icon:check[] **Strong investigation about Continued Integration methods** : Study of Maven artefacting methods and Private Sonatype Nexus Enterprise in order to separate source code storing and packaging external dependencies.
 |
@@ -41,7 +41,7 @@ ____
 ==== 
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|icon:check[] **E-Commerce Integration/Development (Prestashop), ASP.NET Services** : Payment Solutions, membership and related service (pre-paid telephonic plan, phone case personalization, prepaid multimedia content through Amazon CloudFront Services).
+|icon:check[] **E-Commerce Integration & Development (Prestashop), ASP.NET Services** : Payment Solutions, membership and related service (pre-paid telephonic plan, phone case personalization, prepaid multimedia content through Amazon CloudFront Services).
 |icon:check[] **MySQL Database Design** : Business Rules for Internet Payment, audit, membership & multimedia services.
 |icon:check[] **JAVA Tools Development** : Network systems monitor, conciliation files validation, Post Directions referencing and synchronization, Transactional Reporting (Tomcat web-services).
 |
@@ -54,7 +54,7 @@ ____
 [cols="2*",frame=none,grid=none,caption=]
 |===
 |icon:check[] **Terminal and Cards Test and Approval Tools** : EMV, VISA, MasterCard y American Express.
-|icon:check[] **Issuing/Acquiring Host Simulators** : Qualification approval of the Discover Financial Services (DFS) and National Payment Corporation of India (NPCI) affiliated banks.
+|icon:check[] **Issuing & Acquiring Host Simulators** : Qualification approval of the Discover Financial Services (DFS) and National Payment Corporation of India (NPCI) affiliated banks.
 |icon:check[] **Obtainment of Test Tools Qualification Agreements** : EMVCo, DFS y NPCI.
 |icon:check[] **International Customers Support and Training** : Workshops, Remote Support Sessions, Travels in France and to India.
 |===
