@@ -21,7 +21,7 @@ Excited to have international relationship , carrying about corporative and huma
 ____
 ====
 
-== Working Experience
+== Working
 
 === Solutions Developer: Tools and services in financial messaging
 ===== **__Since 2015 - Volante Technologies: Financial Data Message Integration Software (Mexico City – MEXICO)__**
@@ -29,19 +29,19 @@ ____
 [cols="2*",frame=none,grid=none,caption=]
 |===
 |icon:check[] E-Commerce Integration/Development (Prestashop), ASP.NET Services: Payment Solutions, membership and related service (electronic air-time, phone case personalization, prepaid multimedia content through Amazon CloudFront Services).
-|icon:check[] MySQL Database Design: Business Rules for Internet Payment, audit and membership/multimedia services.
+|icon:check[] MySQL Database Design: Business Rules for Internet Payment, audit, membership & multimedia services.
 |icon:check[] JAVA Tools Development: network systems monitor, conciliation files validation, Post Directions referencing and synchronization, Transactional Reporting (Tomcat web-services).
 |
 |===
 ====
 
 === Analyst/Developer: Tools and services in transactional and logistic environment
-=====  **__2014-2015 - e-Networkx: Transactional Infrastructures and Informatics Engineering (Mexico City – MEXICO)__**
+===== **__2014-2015 - e-Networkx: Transactional Infrastructures and Informatics Engineering (Mexico City – MEXICO)__**
 ==== 
 [cols="2*",frame=none,grid=none,caption=]
 |===
 |icon:check[] E-Commerce Integration/Development (Prestashop), ASP.NET Services: Payment Solutions, membership and related service (electronic air-time, phone case personalization, prepaid multimedia content through Amazon CloudFront Services).
-|icon:check[] MySQL Database Design: Business Rules for Internet Payment, audit and membership/multimedia services.
+|icon:check[] MySQL Database Design: Business Rules for Internet Payment, audit, membership & multimedia services.
 |icon:check[] JAVA Tools Development: network systems monitor, conciliation files validation, Post Directions referencing and synchronization, Transactional Reporting (Tomcat web-services).
 |
 |===
@@ -77,8 +77,6 @@ ____
 .icon:check[] University degree in technology – Electrical Engineering and Industrial Data Processing.
 2003 – 2005	University of Nice Côte d’Azur (NICE - FRANCE).
 ====
-
-
 
 == Skills
 ====
