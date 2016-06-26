@@ -1,7 +1,8 @@
 = Solutions Developper - Transactions / Banking
-<julien.bonfillon@gmail.com>
+Julien BONFILLON <julien.bonfillon@gmail.com>
 :icons: font
 :figure-caption!:
+:table-caption!:
 :hide-uri-scheme:
 :quick-uri: https://julienbonfillon.github.io
 
@@ -9,102 +10,101 @@
 image:img/profile.jpg[Profile, 110, role="left"]
 Implementation, Simulation, Tests and Certification +
 French – 31 years old – Single +
-International Skills: French (mother tongue), English (technical), Spanish (bilingual)
+icon:volume-up[] FR (mother tongue), EN (technical), ES (bilingual)
 
 icon:phone[] +33(9) 70 40 82 40  / +52(1) 55 25 70 20 63 +
-icon:skype[role="blue"] julien.bonfillon / icon:linkedin[role="blue"] https://www.linkedin.com/in/julienbonfillon +
+icon:skype[role="blue"] julien.bonfillon / icon:linkedin[role="blue"] https://www.linkedin.com/in/julienbonfillon[julienbonfillon] +
 ____
-Developping and sharing 10 years of experience about industrial, banking and retailing systems... +
+Sharing and enhancing 10 years of experience about industrial, banking and retailing systems... +
 ____
 ____
-Excited to enhance my International Skills, my corporative and human values...
+Excited to have international relationship and constantly carrying of corporative and human values...
 ____
 ====
 
+== Working Experience
 
-
-
-== First level heading
-
-This is a paragraph with a *bold* word and an _italicized_ word.
-
-
-
-
-
-
-This is another paragraph.footnote:[I am footnote text and will be rendered at the bottom of the article.]
-
-=== Second level heading
-
-.Unordered list title
-* list item 1
-** nested list item
-*** nested nested list item 1
-*** nested nested list item 2
-* list item 2
-
-This is a paragraph.
-
-.Example block title
+=== Solutions Developer: Tools and services in financial messaging
+.2015-Current Volante Technologies: Financial Data Message integration software (Mexico City – MEXICO)
 ====
-Content in an example block is subject to normal substitutions.
-====
-
-.Sidebar title
-****
-Sidebars contain aside text and are subject to normal substitutions.
-****
-
-==== Third level heading
-
-[[id-for-listing-block]]
-.Listing block title
-----
-Content in a listing block is subject to verbatim substitutions.
-Listing block content is commonly used to preserve code input.
-----
-
-===== Fourth level heading
-
-.Table title
+[cols="2*"]
 |===
-|Column heading 1 |Column heading 2
-
-|Column 1, row 1
-|Column 2, row 1
-
-|Column 1, row 2
-|Column 2, row 2
+|icon:check[] E-Commerce Integration/Development (Prestashop), ASP.NET Services: Payment Solutions, membership and related service (electronic air-time, phone case personalization, prepaid multimedia content through Amazon CloudFront Services).
+|icon:check[] MySQL Database Design: Business Rules for Internet Payment, audit and membership/multimedia services.
+|icon:check[] JAVA Tools Development: network systems monitor, conciliation files validation, Post Directions referencing and synchronization, Transactional Reporting (Tomcat web-services).
+|
 |===
+====
 
-====== Fifth level heading
+=== Analyst/Developer: Tools and services in transactional and logistic environment
+.2014-2015	e-Networkx: Transactional Infrastructures and Informatics Engineering (Mexico City – MEXICO) 
+====
+[cols="2*"]
+|===
+|icon:check[] E-Commerce Integration/Development (Prestashop), ASP.NET Services: Payment Solutions, membership and related service (electronic air-time, phone case personalization, prepaid multimedia content through Amazon CloudFront Services).
+|icon:check[] MySQL Database Design: Business Rules for Internet Payment, audit and membership/multimedia services.
+|icon:check[] JAVA Tools Development: network systems monitor, conciliation files validation, Post Directions referencing and synchronization, Transactional Reporting (Tomcat web-services).
+|
+|===
+====
 
-[quote, firstname lastname, movie title]
-____
-I am a block quote or a prose excerpt.
-I am subject to normal substitutions.
-____
+=== Software Consultant: Simulation, Test and Qualification of Payment and Banking Systems 
+.2008-2014	Galitt: Transactional flow, Cards, Terminal and Hosts Simulators (FRONTIGNAN - FRANCE)
+====
+[cols="2*"]
+|===
+|icon:check[] Terminal and Cards Test and Approval Tools: EMV, VISA, MasterCard y American Express.
+|icon:check[] Issuing/Acquiring Host Simulators: qualification approval of the Discover Financial Services (DFS) and National Payment Corporation of India (NPCI) affiliated banks.
+|icon:check[] Obtainment of Test Tools Qualification Agreements: EMVCo, DFS y NPCI.
+|icon:check[] International Customers Support and Training (Workshops, Remote Support Sessions, Travels in France and to India).
+|===
+====
 
-[verse, firstname lastname, poem title and more]
-____
-I am a verse block.
-  Indents and endlines are preserved in verse blocks.
-____
+=== Developer: Industrial Automatism (Unix and Windows Systems)
+.2006 - 2008	Axiome Concept: Centralized Building Management Systems (Cannes - FRANCE)
+====
+[cols="2*"]
+|===
+|icon:check[] Communication Software for building management: interphones, access control, lighting (numeric control, RS, IP, MODBUS...).
+|icon:check[] Video Acquisition for centralized management software: MPEG4/MJPEG cameras over IP.
+|===
+====
 
-== First level heading
+== Education
+====
+.icon:check[] Bachelor’s degree in Networks and Telecommunications – Embedded Systems Engineering
+2006 University of Nice Côte d’Azur (NICE - FRANCE).
 
-TIP: There are five admonition labels: Tip, Note, Important, Caution and Warning.
+.icon:check[] University degree in technology – Electrical Engineering and Industrial Data Processing.
+2003 – 2005	University of Nice Côte d’Azur (NICE - FRANCE).
+====
 
-// I am a comment and won't be rendered.
 
-. ordered list item
-.. nested ordered list item
-. ordered list item
 
-The text at the end of this sentence is cross referenced to <<_third_level_heading,the third level heading>>
+== Skills
+====
+JAVA, C#/VB.NET, VB6, PHP, C/C++, Javascript/jQuery;
+HTML5/CSS3, Ajax, XML, JSON;
+SOAP, RestFul, HTTP, TCP/UDP IP, RS232/485;
 
-== First level heading
+Payment Schemes: EMV Level 2/Entry Point, VISA/Paywave, MasterCard/Paypass, Diners Club International/ Discover in Contact/Contactless context.
 
-This is a link to the http://asciidoctor.org/docs/user-manual/[Asciidoctor User Manual].
-This is an attribute reference {quick-uri}[which links this text to the Asciidoctor Quick Reference Guide].
+NetBeans 7/8, Visual Studio 2010;
+eCommerce: PrestaShop;
+SoapUI, WireShark, SVN, MS.VSS;
+Amazon S3 Services: Bucket, CloudFront;
+Transaction Simulators: Galitt KaNest®, KaNest®-ICC;
+Webinar (Webex, Team Viewer);
+
+Oracle, MySQL, Apache, Tomcat
+
+Windows 2000/XP/7, RedHat Enterprise6, AIX,
+====
+
+== Other interests
+====
+Photography icon:flickr[] http://www.flickr.com/photos/julien-bonfillon/albums[Visit My Galery] +
+Personal and psychologic self development +
+Music (drum clases in 2012) +
+Motorcycling Association http://www.evasionmoto34.com/[Evasion Moto] (2010-2012)
+====
