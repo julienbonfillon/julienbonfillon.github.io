@@ -1,30 +1,24 @@
-= Julien Bonfillon - Solutions Developper
+= Solutions Developper - Transactions / Banking
 <julien.bonfillon@gmail.com>
-1.0, June 25, 2016, AsciiDoc formatted CV
 :icons: font
 :figure-caption!:
+:hide-uri-scheme:
 :quick-uri: https://julienbonfillon.github.io
 
 ====
-image:img/profile.jpg[Profile, 120, role="left"]
-Transactional and banking systems +
-Implementation, Simulation, Tests and Certification 
+image:img/profile.jpg[Profile, 110, role="left"]
+Implementation, Simulation, Tests and Certification +
+French – 31 years old – Single +
+International Skills: French (mother tongue), English (technical), Spanish (bilingual)
 
-French – 30 years old – Single +
-International Skills: Spanish, French, English
-
-Skype: julien.bonfillon +
-FR: +33(9) 70 40 82 40  +
- +				
+icon:phone[] +33(9) 70 40 82 40  / +52(1) 55 25 70 20 63 +
+icon:skype[role="blue"] julien.bonfillon / icon:linkedin[role="blue"] https://www.linkedin.com/in/julienbonfillon +
 ____
-Ambitious to develop and share 10 years of experience related to industrial, banking and retailing systems... +
+Developping and sharing 10 years of experience about industrial, banking and retailing systems... +
 ____
 ____
 Excited to enhance my International Skills, my corporative and human values...
 ____
-
-
-
 ====
 
 
