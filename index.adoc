@@ -1,5 +1,5 @@
 = Solutions Developper - Transactions / Banking
-Julien BONFILLON <julien.bonfillon@gmail.com>
+Julien BONFILLON - Implementation for Operation, Testing and Certification <julien.bonfillon@gmail.com>
 :icons: font
 //:toc:left
 :figure-caption!:
@@ -8,12 +8,12 @@ Julien BONFILLON <julien.bonfillon@gmail.com>
 
 ====
 image:img/profile.jpg[Profile, 110, role="left"]
-Software implementation for Operation, Simulation, Tests and Certification +
 French, 31, Almost married +
 icon:volume-up[] FR - EN - ES
 
-icon:phone[]+33(9) 70 40 82 40  / +52(1) 55 25 70 20 63 +
-icon:skype[]julien.bonfillon / icon:linkedin[]https://www.linkedin.com/in/julienbonfillon[julienbonfillon] +
+icon:phone[] +33(9) 7040 8240 +
+icon:mobile[] +52(1)55 2570 2063 +
+icon:skype[] julien.bonfillon - icon:linkedin[] https://www.linkedin.com/in/julienbonfillon[julienbonfillon] +
 ____
 A 10 years experience in industrial, banking and retailing systems... +
 ____
@@ -30,8 +30,8 @@ ____
 [cols="2*",frame=none,grid=none,caption=]
 |===
 |**Front-end Maintenance, Implementation, Definition & Participation** : JAVA Enterprise RESTful services & Server Side Datatable APIs  (Hibernate). Strong colaboration with pre-Sale, Web-designer and Software Arquitect in order to optimize and validate the project milestones delivery. 
-|**Back-end products** : Multi-modal ligthweight and modular JAVA Notification product, with strong integration possibilities using Apache CAMEL and Spring (API, per Message Queue, standalone or in Application Server).
-|**Strong investigation about Continued Integration methods** : Study of Maven artefacting methods and Private Sonatype Nexus Enterprise in order to separate source code storing and packaging external dependencies.
+|**Back-end products** : Multi-modal ligthweight and modular JAVA Notification product, with strong integration possibilities (API, per Message Queue, standalone or in Application Server) using Apache CAMEL and Spring.
+|**Strong investigation about Continued Integration methods** : Study of Maven artefacting methods and Private Sonatype Nexus in order to separate source code storing and external dependencies of any JAVA packaging.
 |
 |===
 ====
