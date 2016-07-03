@@ -24,69 +24,69 @@ ____
 
 == Experiencia Laboral
 
-=== Desarrollador de Solutiones: Implementación Front-end & Servicios en Mensajería Financiera
+=== Desarrollador de Soluciones: Implementación Front-end & Servicios en Mensajería Financiera
 ===== **__Desde 2015 - link:http://www.volantetech.com/[Volante Technologies México] : Software de Integración de Mensajes de datos Financieros (Ciudad de Mexico – MEXICO)__**
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===
 |**Front-end: Definición, Implementación y Mantenimiento Colaborativo** : Servicios RESTful JAVA Enterprise & API Servidor para Datatable (Hibernate). Colaboración fuerte con los áreas de pre-venta, web-design y arquitectura software con el fín de validar y optimizar la liberación de los diferentes milestones . 
-|**Back-end** : Modulo dee alertas & notificationes JAVA, multi-modal, lijero y modular, con fuertas posibilidades de integración (como API, via Colas de Mensaje, en standalone o en Servidores de aplicación) usando Apache CAMEL y Spring.
+|**Back-end** : Modulo de alertas & notificationes JAVA, multi-modal, lijero y modular, con fuertas posibilidades de integración (como API, via Colas de Mensaje, en standalone o en Servidores de aplicación) usando Apache CAMEL y Spring.
 |**Fuerte investigación en los métodos de Integración Continua** : Étude de la compilation via Maven couplée à un serveur privé Sonatype Nexus, dans le but de séparer le code source et les dépendances externes au sein d'un projet JAVA SE/EE.
 |
 |===
 ====
 
-=== Analyste/Developpeur: Outils et services en environnements transactionels et logistiques
-===== **__2014-2015 - link:http://www.e-networkx.com/PageEnet/index.html[e-Networkx] : Infrastructures Transactionnelles et Ingénierie Informatique (Mexico City – MEXICO)__**
+=== Analista/Desarrollador: Herramientas y servicios en ambiente transaccional y logístico
+===== **__2014-2015 - link:http://www.e-networkx.com/PageEnet/index.html[e-Networkx] : Infraestructuras Transaccionales e Ingenería Informática (Ciudad de México – MEXICO)__**
 ==== 
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|**Intégration de CMS E-Commerce & Développements (Prestashop), Services ASP.NET** : Solutions de paiement, adhésions et services associés (recharges téléphoniques pré-payées, coques de téléphones personnalisables, contenu multimédia pré-payé usant du service Amazon CloudFront).
-|**Modélisation de bases de données MySQL** : Regles commerciales pour le paiement par Internet, Audit, adhésions & services multimédia.
-|**Développement d'outils JAVA** : Moniteur de Systèmes en Réseau, Validation d'archives de conciliation transactionnelle, Référencement & Synchronisation de codes postaux, Reporting transactionnel (web-services TOMCAT).
+|**Integración de CMS e-Commerce & Desarrollo (Prestashop), Servicios ASP.NET** : Soluciones de Pago, Membresía y Servicios afiliados (pre-pago telefónico, fondas personalizadas de celular, contenido multimedia pre-pagado explotando el servicio Amazon CloudFront).
+|**Modelisación de bases de datos MySQL** : Reglas de negocio par el pago por Internet, Auditoría, membresías & sercivios multimedia.
+|**Desarrollo de herramientas JAVA** : Monitor de Systemas en Redes, Validación de archivos de conciliación transaccional, Analisis & Syncronización de códigos postles, reportes transaccionales (web-services TOMCAT).
 |
 |===
 ====
 
-=== Consultant Logiciel: Solutions de Simulation, Test et Certification de Systèmes de Bancaires et de Paiement 
-===== **__2008-2014 - link:https://www.galitt.com/[Galitt]: Flux Transactionnels électroniques, Simulation de Cartes, Terminaux et & Hosts (FRONTIGNAN - FRANCE)__**
+=== Consultor Software: Soluciones de Simulación, Prueba y Certificación de Sistemas Bancarios y de Pago 
+===== **__2008-2014 - link:https://www.galitt.com/[Galitt]: Flujos Transaccionales Electrónicos, Simulación de Tarjetas, Terminales & Hosts (Frontignan&Paris - FRANCIA)__**
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|**Suites de Tests & Certification Terminal** : EMV, VISA, MasterCard et American Express.
-|**Suites de Tests & Certification de Serveurs Acquéreur et Émetteurs** : Banques affiliées à "Discover Financial Services" (DFS) et "National Payment Corporation of India" (NPCI).
-|**Obtention des agréments comme Outils de Tests** : EMVCo, DFS y NPCI.
-|**Support International et Capacitation des Clients** : Ateliers participatids, Sessions de Support a Distance, Voyages en France et en Inde.
+|**Ambientes de Prueba & Certificación para Tarjetas y Terminales:** : EMV, VISA, MasterCard, American Express.
+|**Simuladores de Host Adquirente/Emisor para certificación de Servidores Emisores/Adquirientes** : certificación de Franquicias de "Discover Financial Services" (DFS) y "National Payment Corporation of India" (NPCI).
+|**Obtención de Certificaciones como Herramienta Oficial** : EMVCo, DFS y NPCI.
+|**Formación y Soporte técnico de los Clientes al Internacional** : talleres interactivos, sesiones remotas, viajes en Francia y a India.
 |===
 ====
 
-=== Developeur: Automatisme Industriels (Unix and Windows Systems)
-===== **__2006 - 2008 - link:http://www.axiomeconcept.com/[Axiome Concept] : Systèmes de Gestion Technique Centralisée et de Bâtiments (Cannes - FRANCE)__**
+=== Desarrollador: Autómatas Industriales (Sistemas Unix & Windows)
+===== **__2006 - 2008 - link:http://www.axiomeconcept.com/[Axiome Concept] : Gestión técnica multimedia de estacionamientos, hospitales, aeropuertos (Cannes - FRANCIA)__**
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|**Modules d'Interface pour la Gestion d'Édifices** : Interphones, Contrôle d'Accès, Éclairage (numérique, RS, IP, MODBUS...).
-|**Modules d'Acquisition vidéo pour Superviseur Graphique** : MPEG4/MJPEG caméras IP.
+|**Interfaces con equipos de edificios** :  intercomunicadores, control de acceso, iluminación (numérico, RS, IP, MODBUS...).
+|**Modulo visual para supervisor gráfico:** : MPEG4/MJPEG cameras IP.
 |===
 ====
 
-== Formation Académique
+== Formation Académica
 ====
-.icon:check[] Licence professionnelle Réseaux & Télécommunication – Option Ingénierie des Systèmes Embarqués
-2006 Université de Nice - Sophia Antipolis (NICE - FRANCE).
+.icon:check[] Licenciatura Redes & Telecomunicación – Especialización Ingeniería de Sistemas Embebidos
+2006 Universidad de Niza - Sophia Antipolis (Niza - FRANCIA).
 
-.icon:check[] Diplôme Universitaire de Technologie – Option Automatisme et Systèmes.
-2003 – 2005	Université de Nice - Sophia Antipolis (NICE - FRANCE).
+.icon:check[] Diplomado Universitario de Tecnología – Especialización en Automatismo y Sistemas.
+2003 – 2005	Universidad de Niza - Sophia Antipolis (Niza - FRANCIA).
 ====
 
-== Domaines de compétences
+== Áreas de habilidades
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|**Intéraction Proactive et Travail d'Équipe** +
-Français (langue natale), Anglais (technique), Espagnol (bilingue) +
-Communication et comptes rendus à l'international +
-Definición de Milestones, Análisis de pre-requisitos y validación de implementación
+|**Interacción Proactiva y Trabajo en Equipo** +
+Francés (nátivo), Inglés (técnico), Español (Bilingüe) +
+Communicación y Reportes al Internacional +
+Definición de Milestones, Análisis de Requerimientos y Validación de Implementación
 
 |**Idiomas de Programción** +
 JAVA, C#, VB.NET, VB6, PHP5, SQL, C, C++, Javascript, jQuery; +
@@ -118,7 +118,7 @@ Windows 2000/XP/7, RedHat Enterprise6, CentOS 7, IBM AIX;
 
 == Otros Intereses
 ====
-**Photograpfía** (desde 2011), aficionado de los productos Canon icon:flickr[] http://www.flickr.com/photos/julien-bonfillon/albums[Mi galería]. +
+**Photograpfía** (desde 2011), aficionado de los productos de la marca "Canon" icon:flickr[] http://www.flickr.com/photos/julien-bonfillon/albums[Mi galería]. +
 **Medio ambiente** , Lectura de documentaciones / actualidad agrícola y biológica : Claude Bourguignon, Pierre Rabhi, .... +
 **Psychologiá y desarrollo personal**. +
 **Música** (Clases de batería tomadas en 2012). +

@@ -41,7 +41,7 @@ ____
 ==== 
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|**Intégration de CMS E-Commerce & Développements (Prestashop), Services ASP.NET** : Solutions de paiement, adhésions et services associés (recharges téléphoniques pré-payées, coques de téléphones personnalisables, contenu multimédia pré-payé usant du service Amazon CloudFront).
+|**Intégration de CMS e-Commerce & Développements (Prestashop), Services ASP.NET** : Solutions de paiement, adhésions et services associés (recharges téléphoniques pré-payées, coques de téléphones personnalisables, contenu multimédia pré-payé usant du service Amazon CloudFront).
 |**Modélisation de bases de données MySQL** : Regles commerciales pour le paiement par Internet, Audit, adhésions & services multimédia.
 |**Développement d'outils JAVA** : Moniteur de Systèmes en Réseau, Validation d'archives de conciliation transactionnelle, Référencement & Synchronisation de codes postaux, Reporting transactionnel (web-services TOMCAT).
 |
@@ -49,18 +49,18 @@ ____
 ====
 
 === Consultant Logiciel: Solutions de Simulation, Test et Certification de Systèmes de Bancaires et de Paiement 
-===== **__2008-2014 - link:https://www.galitt.com/[Galitt]: Flux Transactionnels électroniques, Simulation de Cartes, Terminaux et & Hosts (FRONTIGNAN - FRANCE)__**
+===== **__2008-2014 - link:https://www.galitt.com/[Galitt]: Flux Transactionnels électroniques, Simulation de Cartes, Terminaux & Hosts (FRONTIGNAN - FRANCE)__**
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===
 |**Suites de Tests & Certification Terminal** : EMV, VISA, MasterCard et American Express.
 |**Suites de Tests & Certification de Serveurs Acquéreur et Émetteurs** : Banques affiliées à "Discover Financial Services" (DFS) et "National Payment Corporation of India" (NPCI).
-|**Obtention des agréments comme Outils de Tests** : EMVCo, DFS y NPCI.
-|**Support International et Capacitation des Clients** : Ateliers participatids, Sessions de Support a Distance, Voyages en France et en Inde.
+|**Obtention des agréments comme Outil de Test** : EMVCo, DFS y NPCI.
+|**Support International et Capacitation des Clients** : Ateliers participatifs, Sessions de Support a Distance, Voyages en France et en Inde.
 |===
 ====
 
-=== Developeur: Automatisme Industriels (Unix and Windows Systems)
+=== Developeur: Automatisme Industriels (Systèmes Unix & Windows)
 ===== **__2006 - 2008 - link:http://www.axiomeconcept.com/[Axiome Concept] : Systèmes de Gestion Technique Centralisée et de Bâtiments (Cannes - FRANCE)__**
 ====
 [cols="2*",frame=none,grid=none,caption=]
@@ -118,7 +118,7 @@ Windows 2000/XP/7, RedHat Enterprise6, CentOS 7, IBM AIX;
 
 == Intêrets Personnels
 ====
-**Photographie** (depuis 2011), fan des produits Canon icon:flickr[] http://www.flickr.com/photos/julien-bonfillon/albums[Ma Galerie]. +
+**Photographie** (depuis 2011), fan des produits de la marque "Canon" icon:flickr[] http://www.flickr.com/photos/julien-bonfillon/albums[Ma Galerie]. +
 **Environnement** , Documentation / actualité agricole et biologique : Claude Bourguignon, Pierre Rabhi, .... +
 **Psychologie et développement personnel**. +
 **Musique** (Cours de batterie pris en 2012). +

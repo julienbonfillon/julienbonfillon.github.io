@@ -31,7 +31,7 @@ ____
 |===
 |**Front-end Maintenance, Implementation, Definition & Collaborative Participation** : JAVA Enterprise RESTful services & Server Side Datatable APIs  (Hibernate). Strong colaboration with pre-Sale, Web-designer and Software Arquitect in order to optimize and validate the project milestones delivery. 
 |**Back-end products** : Multi-modal ligthweight and modular JAVA Notification product, with strong integration possibilities (API, per Message Queue, standalone or in Application Server) using Apache CAMEL and Spring.
-|**Strong investigation about Continued Integration methods** : Study of Maven artefacting methods and Private Sonatype Nexus in order to separate source code storing and external dependencies of any JAVA packaging.
+|**Strong investigation about Continued Integration methods** : Study of Maven artifacting methods and Private Sonatype Nexus in order to separate source code storing and external dependencies of any JAVA packaging.
 |
 |===
 ====
@@ -41,7 +41,7 @@ ____
 ==== 
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|**E-Commerce Integration & Development (Prestashop), ASP.NET Services** : Payment Solutions, membership and related service (pre-paid telephonic plan, phone case personalization, prepaid multimedia content through Amazon CloudFront Services).
+|**e-Commerce Integration & Development (Prestashop), ASP.NET Services** : Payment Solutions, membership and related service (pre-paid telephonic plan, phone case personalization, prepaid multimedia content through Amazon CloudFront Services).
 |**MySQL Database Design** : Business Rules for Internet Payment, audit, membership & multimedia services.
 |**JAVA Tools Development** : Network systems monitor, balance files validation, Post Directions referencing and synchronization, Transactionnal Reporting (Tomcat web-services).
 |
