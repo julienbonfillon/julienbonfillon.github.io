@@ -9,7 +9,7 @@ Julien BONFILLON - Implémentations pour Opérations, Tests & Certifications <ju
 ====
 image:img/profile.jpg[Profile, 110, role="left"]
 French, 31, Bientôt marié +
-icon:volume-up[] indexFr.html[FR] - index.html[EN] - ES
+icon:volume-up[] link:indexFr.html[FR] - link:index.html[EN] - ES
 
 icon:phone[] +33(9) 7040 8240 +
 icon:mobile[] +52(1)55 2570 2063 +
