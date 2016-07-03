@@ -28,9 +28,9 @@ ____
 ===== **__Depuis 2015 - link:http://www.volantetech.com/[Volante Technologies México] : Logiciels d'Intégration de Messages de Données Financières (Mexico City – MEXICO)__**
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|**Front-end: Définitions, implémentation et maintenance collaborative** : Services RESTful JAVA Enterprise & API Server Datatable  (Hibernate). Étroite collaboration avec les pôles avant-vente, web-design et architecture logicielle dans le but de valider et optimiser la libération des différents milestones . 
-|**Back-end** : Module d'alertes & notifications JAVA, multi-modal, léger et modulaire, avec de fortes possibilités d'intégration (sous forme d'API, Message Queue, en standalone or en Serveur d'application) usant Apache CAMEL et Spring.
-|**Forte investigation sur les méthodes d'Integration Continue** : Étude de la compilation via Maven couplée à un serveur privé Sonatype Nexus, dans le but de séparer le code source et les dépendances externes au sein d'un projet JAVA SE/EE.
+|**__icon:check[] Front-end: Définitions, implémentation et maintenance collaborative:__** Services RESTful JAVA Enterprise & API Server Datatable  (Hibernate). Étroite collaboration avec les pôles avant-vente, web-design et architecture logicielle dans le but de valider et optimiser la libération des différents milestones . 
+|**__icon:check[] Back-end:__** Module d'alertes & notifications JAVA, multi-modal, léger et modulaire, avec de fortes possibilités d'intégration (sous forme d'API, Message Queue, en standalone or en Serveur d'application) usant Apache CAMEL et Spring.
+|**__icon:check[] Forte investigation sur les méthodes d'Integration Continue:__** Étude de la compilation via Maven couplée à un serveur privé Sonatype Nexus, dans le but de séparer le code source et les dépendances externes au sein d'un projet JAVA SE/EE.
 |
 |===
 
@@ -38,9 +38,9 @@ ____
 ===== **__2014-2015 - link:http://www.e-networkx.com/PageEnet/index.html[e-Networkx] : Infrastructures Transactionnelles et Ingénierie Informatique (Mexico City – MEXICO)__**
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|**Intégration de CMS e-Commerce & Développements (Prestashop), Services ASP.NET** : Solutions de paiement, adhésions et services associés (recharges téléphoniques pré-payées, coques de téléphones personnalisables, contenu multimédia pré-payé usant du service Amazon CloudFront).
-|**Modélisation de bases de données MySQL** : Regles commerciales pour le paiement par Internet, Audit, adhésions & services multimédia.
-|**Développement d'outils JAVA** : Moniteur de Systèmes en Réseau, Validation d'archives de conciliation transactionnelle, Référencement & Synchronisation de codes postaux, Reporting transactionnel (web-services TOMCAT).
+|**__icon:check[] Intégration de CMS e-Commerce & Développements (Prestashop), Services ASP.NET:__** Solutions de paiement, adhésions et services associés (recharges téléphoniques pré-payées, coques de téléphones personnalisables, contenu multimédia pré-payé usant du service Amazon CloudFront).
+|**__icon:check[] Modélisation de bases de données MySQL:__** Règles commerciales pour le paiement par Internet, Audit, adhésions & services multimédia.
+|**__icon:check[] Développement d'outils JAVA:__** Moniteur de Systèmes en Réseau, Validation d'archives de conciliation transactionnelle, Référencement & Synchronisation de codes postaux, Reporting transactionnel (web-services TOMCAT).
 |
 |===
 
@@ -48,18 +48,18 @@ ____
 ===== **__2008-2014 - link:https://www.galitt.com/[Galitt]: Flux Transactionnels électroniques, Simulation de Cartes, Terminaux & Hosts (FRONTIGNAN - FRANCE)__**
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|**Suites de Tests & Certification Terminal** : EMV, VISA, MasterCard et American Express.
-|**Suites de Tests & Certification de Serveurs Acquéreur et Émetteurs** : Banques affiliées à "Discover Financial Services" (DFS) et "National Payment Corporation of India" (NPCI).
-|**Obtention des agréments comme Outil de Test** : EMVCo, DFS y NPCI.
-|**Support International et Capacitation des Clients** : Ateliers participatifs, Sessions de Support a Distance, Voyages en France et en Inde.
+|**__icon:check[] Suites de Tests & Certification Terminal:__** EMV, VISA, MasterCard et American Express.
+|**__icon:check[] Suites de Tests & Certification de Serveurs Acquéreur et Émetteurs:__** Banques affiliées à "Discover Financial Services" (DFS) et "National Payment Corporation of India" (NPCI).
+|**__icon:check[] Obtention des agréments comme Outil de Test:__** EMVCo, DFS y NPCI.
+|**__icon:check[] Support International et Capacitation des Clients:__** Ateliers participatifs, Sessions de Support a Distance, Voyages en France et en Inde.
 |===
 
 === Developeur: Automatisme Industriels (Systèmes Unix & Windows)
 ===== **__2006 - 2008 - link:http://www.axiomeconcept.com/[Axiome Concept] : Systèmes de Gestion Technique Centralisée et de Bâtiments (Cannes - FRANCE)__**
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|**Modules d'Interface pour la Gestion d'Édifices** : Interphones, Contrôle d'Accès, Éclairage (numérique, RS, IP, MODBUS...).
-|**Modules d'Acquisition vidéo pour Superviseur Graphique** : MPEG4/MJPEG caméras IP.
+|**__icon:check[] Modules d'Interface pour la Gestion d'Édifices:__** Interphones, Contrôle d'Accès, Éclairage (numérique, RS, IP, MODBUS...).
+|**__icon:check[] Modules d'Acquisition vidéo pour Superviseur Graphique:__** MPEG4/MJPEG caméras IP.
 |===
 
 == Formation Académique

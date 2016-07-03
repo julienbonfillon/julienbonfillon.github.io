@@ -8,7 +8,7 @@ Julien BONFILLON - Implementación para Operaciones, Pruebas, Certificación <ju
 
 ====
 image:img/profile.jpg[Perfil, 110, role="left"]
-Françés, 31 años, Casi casado +
+Françés, 31 años, Próximamente casado +
 image:img/fr.png[Français,link="indexFr.html"] link:indexFr.html[FR] - image:img/us.png[English,link="index.html"] link:index.html[EN] - image:img/es.png[Español,link="indexEs.html"] link:indexEs.html[ES]
 
 icon:phone[] +33(9) 7040 8240 +
@@ -28,9 +28,9 @@ ____
 ===== **__Desde 2015 - link:http://www.volantetech.com/[Volante Technologies México] : Software de Integración de Mensajes de datos Financieros (Ciudad de Mexico – MEXICO)__**
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|**Front-end: Definición, Implementación y Mantenimiento Colaborativo : ** Servicios RESTful JAVA Enterprise & API Servidor para Datatable (Hibernate). Colaboración fuerte con los áreas de pre-venta, web-design y arquitectura software con el fín de validar y optimizar la liberación de los diferentes milestones.
-|**Back-end : **Modulo de alertas & notificationes JAVA, multi-modal, lijero y modular, con fuertas posibilidades de integración (como API, via Colas de Mensaje, en standalone o en Servidores de aplicación) usando Apache CAMEL y Spring.
-|**Fuerte investigación en los métodos de Integración Continua : ** Estudio de la compilación via Maven acoplada a un servidor privados Sonatype Nexus, con el fin de separar el código fuente y sus dependencias externasa en un proyecto JAVA SE/EE.
+|**__icon:check[] Front-end: Definición, Implementación y Mantenimiento Colaborativo :__** Servicios RESTful JAVA Enterprise & API Servidor para Datatable (Hibernate). Colaboración fuerte con los áreas de pre-venta, web-design y arquitectura software con el fín de validar y optimizar la liberación de los diferentes milestones.
+|**__icon:check[] Back-end :__**Modulo de alertas & notificationes JAVA, multi-modal, lijero y modular, con fuertas posibilidades de integración (como API, via Colas de Mensaje, en standalone o en Servidores de aplicación) usando Apache CAMEL y Spring.
+|**__icon:check[] Fuerte investigación en los métodos de Integración Continua : __** Estudio de la compilación via Maven acoplada a un servidor privados Sonatype Nexus, con el fin de separar el código fuente y sus dependencias externasa en un proyecto JAVA SE/EE.
 |
 |===
 
@@ -38,9 +38,9 @@ ____
 ===== **__2014-2015 - link:http://www.e-networkx.com/PageEnet/index.html[e-Networkx] : Infraestructuras Transaccionales e Ingenería Informática (Ciudad de México – MEXICO)__** 
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|**Integración de CMS e-Commerce & Desarrollo (Prestashop), Servicios ASP.NET** : Soluciones de Pago, Membresía y Servicios afiliados (pre-pago telefónico, fondas personalizadas de celular, contenido multimedia pre-pagado explotando el servicio Amazon CloudFront).
-|**Modelisación de bases de datos MySQL** : Reglas de negocio par el pago por Internet, Auditoría, membresías & sercivios multimedia.
-|**Desarrollo de herramientas JAVA** : Monitor de Systemas en Redes, Validación de archivos de conciliación transaccional, Analisis & Syncronización de códigos postles, reportes transaccionales (web-services TOMCAT).
+|**__icon:check[] Integración de CMS e-Commerce & Desarrollo (Prestashop), Servicios ASP.NET:__** Soluciones de Pago, Membresía y Servicios afiliados (pre-pago telefónico, fondas personalizadas de celular, contenido multimedia pre-pagado explotando el servicio Amazon CloudFront).
+|**__icon:check[] Modelización de bases de datos MySQL:__** Reglas de negocio para el pago por Internet, Auditoría, membresías & sercivios multimedia.
+|**__icon:check[] Desarrollo de herramientas JAVA:__** Monitor de Systemas en Redes, Validación de archivos de conciliación transaccional, Analisis & Syncronización de códigos postles, reportes transaccionales (web-services TOMCAT).
 |
 |===
 
@@ -48,18 +48,18 @@ ____
 ===== **__2008-2014 - link:https://www.galitt.com/[Galitt]: Flujos Transaccionales Electrónicos, Simulación de Tarjetas, Terminales & Hosts (Frontignan&Paris - FRANCIA)__**
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|**Ambientes de Prueba & Certificación para Tarjetas y Terminales:** : EMV, VISA, MasterCard, American Express.
-|**Simuladores de Host Adquirente/Emisor para certificación de Servidores Emisores/Adquirientes** : certificación de Franquicias de "Discover Financial Services" (DFS) y "National Payment Corporation of India" (NPCI).
-|**Obtención de Certificaciones como Herramienta Oficial** : EMVCo, DFS y NPCI.
-|**Formación y Soporte técnico de los Clientes al Internacional** : talleres interactivos, sesiones remotas, viajes en Francia y a India.
+|**__icon:check[] Ambientes de Prueba & Certificación para Tarjetas y Terminales:__** EMV, VISA, MasterCard, American Express.
+|**__icon:check[] Simuladores de Host Adquirente/Emisor para certificación de Servidores Emisores/Adquirientes:__** certificación de Franquicias de "Discover Financial Services" (DFS) y "National Payment Corporation of India" (NPCI).
+|**__icon:check[] Obtención de Certificaciones como Herramienta Oficial:__** EMVCo, DFS y NPCI.
+|**__icon:check[] Formación y Soporte técnico de los Clientes al Internacional:__** talleres interactivos, sesiones remotas, viajes en Francia y a India.
 |===
 
 === Desarrollador: Autómatas Industriales (Sistemas Unix & Windows)
 ===== **__2006 - 2008 - link:http://www.axiomeconcept.com/[Axiome Concept] : Gestión técnica multimedia de estacionamientos, hospitales, aeropuertos (Cannes - FRANCIA)__**
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|**Interfaces con equipos de edificios** :  intercomunicadores, control de acceso, iluminación (numérico, RS, IP, MODBUS...).
-|**Modulo visual para supervisor gráfico:** : MPEG4/MJPEG cameras IP.
+|**__icon:check[] Interfaces con equipos de edificios:__**  intercomunicadores, control de acceso, iluminación (numérico, RS, IP, MODBUS...).
+|**__icon:check[] Modulo visual para supervisor gráfico:__** MPEG4/MJPEG cameras IP.
 |===
 
 == Formation Académica
