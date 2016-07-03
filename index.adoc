@@ -1,4 +1,4 @@
-= Solutions Developer - Transactions / Banking
+= Software Consultant - Transactions / Banking
 Julien BONFILLON - Implementation for Operation, Testing and Certification <julien.bonfillon@gmail.com>
 :icons: font
 //:toc:left
@@ -9,7 +9,7 @@ Julien BONFILLON - Implementation for Operation, Testing and Certification <juli
 ====
 image:img/profile.jpg[Profile, 110, role="left"]
 French, 31, Almost married +
-icon:volume-up[] image:img/fr.png[French,link="https://julienbonfillon.github.io/indexFr.html"] link:indexFr.html[FR] - image:img/us.png[English,link="https://julienbonfillon.github.io/index.html"] link:index.html[EN] - ES
+image:img/fr.png[Français,link="indexFr.html"] link:indexFr.html[FR] - image:img/us.png[English,link="index.html"] link:index.html[EN] - image:img/es.png[Español,link="indexEs.html"] link:indexEs.html[ES]
 
 icon:phone[] +33(9) 7040 8240 +
 icon:mobile[] +52(1)55 2570 2063 +
@@ -25,7 +25,7 @@ ____
 == Working
 
 === Solutions Developer: Front-end Implementation and Services in financial messaging
-===== **__Since 2015 - Volante Technologies México: Financial Data Message Integration Software (Mexico City – MEXICO)__**
+===== **__Since 2015 - link:http://www.volantetech.com/[Volante Technologies México] : Financial Data Message Integration Software (Mexico City – MEXICO)__**
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===
@@ -37,7 +37,7 @@ ____
 ====
 
 === Analyst/Developer: Tools and services in transactional and logistic environment
-===== **__2014-2015 - e-Networkx: Transactional Infrastructures and Informatics Engineering (Mexico City – MEXICO)__**
+===== **__2014-2015 - link:http://www.e-networkx.com/PageEnet/index.html[e-Networkx] : Transactional Infrastructures and Informatics Engineering (Mexico City – MEXICO)__**
 ==== 
 [cols="2*",frame=none,grid=none,caption=]
 |===
@@ -49,7 +49,7 @@ ____
 ====
 
 === Software Consultant: Simulation, Test and Qualification of Payment and Banking Systems 
-===== **__2008-2014 - Galitt: Transactional flow, Cards, Terminal and Hosts Simulators (FRONTIGNAN - FRANCE)__**
+===== **__2008-2014 - link:https://www.galitt.com/[Galitt] : Transactional flow, Cards, Terminal and Hosts Simulators (FRONTIGNAN - FRANCE)__**
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===
@@ -61,7 +61,7 @@ ____
 ====
 
 === Developer: Industrial Automatism (Unix and Windows Systems)
-===== **__2006 - 2008 - Axiome Concept: Centralized Building Management Systems (Cannes - FRANCE)__**
+===== **__2006 - 2008 - link:http://www.axiomeconcept.com/[Axiome Concept] : Centralized Building Management Systems (Cannes - FRANCE)__**
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===

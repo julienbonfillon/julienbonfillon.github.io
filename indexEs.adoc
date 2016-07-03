@@ -1,5 +1,5 @@
-= Consultant Logiciel - Transactions / Bancaire
-Julien BONFILLON - Implémentations pour Opérations, Tests, Certifications <julien.bonfillon@gmail.com>
+= Consultor Software - Transacciones / Bancario
+Julien BONFILLON - Implementación para Operaciones, Pruebas, Certificación <julien.bonfillon@gmail.com>
 :icons: font
 //:toc:left
 :figure-caption!:
@@ -7,31 +7,31 @@ Julien BONFILLON - Implémentations pour Opérations, Tests, Certifications <jul
 :quick-uri: https://julienbonfillon.github.io
 
 ====
-image:img/profile.jpg[Profile, 110, role="left"]
-Français, 31 ans, Bientôt marié +
+image:img/profile.jpg[Perfil, 110, role="left"]
+Françés, 31 años, Casi casado +
 image:img/fr.png[Français,link="indexFr.html"] link:indexFr.html[FR] - image:img/us.png[English,link="index.html"] link:index.html[EN] - image:img/es.png[Español,link="indexEs.html"] link:indexEs.html[ES]
 
 icon:phone[] +33(9) 7040 8240 +
 icon:mobile[] +52(1)55 2570 2063 +
 icon:skype[] julien.bonfillon - icon:linkedin[] https://www.linkedin.com/in/julienbonfillon[julienbonfillon] +
 ____
-10 d'expérience en systèmes industriels, bancaires et commerciaux... +
+10 de experiencia en sistemas industriales, bancarios y comerciales... +
 ____
 ____
-Collaboration internationale , soucieux des valeurs corporatives et humaines...
+Colaboración internacional , cuidadoso ante los valores corporativos y humanos...
 ____
 ====
 
-== Expérience professionnelle
+== Experiencia Laboral
 
-=== Développeur Solutions: Implémentations Front-end & Services en Messagerie Financière
-===== **__Depuis 2015 - link:http://www.volantetech.com/[Volante Technologies México] : Logiciels d'Intégration de Messages de Données Financières (Mexico City – MEXICO)__**
+=== Desarrollador de Solutiones: Implementación Front-end & Servicios en Mensajería Financiera
+===== **__Desde 2015 - link:http://www.volantetech.com/[Volante Technologies México] : Software de Integración de Mensajes de datos Financieros (Ciudad de Mexico – MEXICO)__**
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|**Front-end: Définitions, implémentation et maintenance collaborative** : Services RESTful JAVA Enterprise & API Server Datatable  (Hibernate). Étroite collaboration avec les pôles avant-vente, web-design et architecture logicielle dans le but de valider et optimiser la libération des différents milestones . 
-|**Back-end** : Module d'alertes & notifications JAVA, multi-modal, léger et modulaire, avec de fortes possibilités d'intégration (sous forme d'API, Message Queue, en standalone or en Serveur d'application) usant Apache CAMEL et Spring.
-|**Forte investigation sur les méthodes d'Integration Continue** : Étude de la compilation via Maven couplée à un serveur privé Sonatype Nexus, dans le but de séparer le code source et les dépendances externes au sein d'un projet JAVA SE/EE.
+|**Front-end: Definición, Implementación y Mantenimiento Colaborativo** : Servicios RESTful JAVA Enterprise & API Servidor para Datatable (Hibernate). Colaboración fuerte con los áreas de pre-venta, web-design y arquitectura software con el fín de validar y optimizar la liberación de los diferentes milestones . 
+|**Back-end** : Modulo dee alertas & notificationes JAVA, multi-modal, lijero y modular, con fuertas posibilidades de integración (como API, via Colas de Mensaje, en standalone o en Servidores de aplicación) usando Apache CAMEL y Spring.
+|**Fuerte investigación en los métodos de Integración Continua** : Étude de la compilation via Maven couplée à un serveur privé Sonatype Nexus, dans le but de séparer le code source et les dépendances externes au sein d'un projet JAVA SE/EE.
 |
 |===
 ====
@@ -86,20 +86,20 @@ ____
 |**Intéraction Proactive et Travail d'Équipe** +
 Français (langue natale), Anglais (technique), Espagnol (bilingue) +
 Communication et comptes rendus à l'international +
-Definition de Milestones, Analyse de pré-requis et validation d'implémentation
+Definición de Milestones, Análisis de pre-requisitos y validación de implementación
 
-|**Languages de Programmation** +
+|**Idiomas de Programción** +
 JAVA, C#, VB.NET, VB6, PHP5, SQL, C, C++, Javascript, jQuery; +
 HTML5/CSS3;
 
-|**APIs, Frameworks & Protocoles** +
-JPA 2.0/2.1: Hibernate, JPA Modeling, JPQL, critères et prédicats de Requête via API; +
-JMS : Consommation de Queues de Messagerie ActiveMQ, Rabbit MQ et Web Logic; +
+|**APIs, Frameworks & Protocols** +
+JPA 2.0/2.1: Hibernate, JPA Modeling, JPQL, criterios y predicatos de queries via API; +
+JMS : Consumo de Colas de Mensajes ActiveMQ, Rabbit MQ y Web Logic; +
 SOAP, RESTful, HTTP, TCP/UDP IP; +
 Spring, Apache CAMEL;
 
-|**Modèles de Paiement** +
-Contexte Contact & Sans Contact: EMV Level 2 & Entry Point, VISA/ Paywave, MasterCard/ Paypass, Diners Club International/ Discover.
+|**Modelos de Pago** +
+Contexto Contacto & Sin Contacto: EMV Level 2 & Entry Point, VISA/ Paywave, MasterCard/ Paypass, Diners Club International/ Discover.
 
 |**Logiciels & Outils d'Integration** +
 Eclipse,NetBeans 7/8, Volante Designer 5+, Visual Studio 2010; +
@@ -108,7 +108,7 @@ Amazon Web Service: S3 Bucket, CloudFront, EC2, RDS, Elastic Transcoder; +
 Simulateurs de transactions: Galitt KaNest®, KaNest®-ICC; +
 Webinar: Webex, Team Viewer;
 
-|**Serveurs Web, d'Applications, Bases de Données** +
+|**Servidores Web, de Aplicaciones, de Bases de Datos** +
 Apache, NginX Proxy, JBoss 6, WebLogic, Tomcat, Sonatype Nexus +
 eCommerce: PrestaShop; +
 Oracle, MySQL, HSQLDB; +
@@ -116,11 +116,11 @@ Windows 2000/XP/7, RedHat Enterprise6, CentOS 7, IBM AIX;
 |===
 ====
 
-== Intêrets Personnels
+== Otros Intereses
 ====
-**Photographie** (depuis 2011), fan des produits Canon icon:flickr[] http://www.flickr.com/photos/julien-bonfillon/albums[Ma Galerie]. +
-**Environnement** , Documentation / actualité agricole et biologique : Claude Bourguignon, Pierre Rabhi, .... +
-**Psychologie et développement personnel**. +
-**Musique** (Cours de batterie pris en 2012). +
-**Association motocycliste** (participation de 2010 à 2012) à visée culturelle et préventive http://www.evasionmoto34.com/[Évasion Moto].
+**Photograpfía** (desde 2011), aficionado de los productos Canon icon:flickr[] http://www.flickr.com/photos/julien-bonfillon/albums[Mi galería]. +
+**Medio ambiente** , Lectura de documentaciones / actualidad agrícola y biológica : Claude Bourguignon, Pierre Rabhi, .... +
+**Psychologiá y desarrollo personal**. +
+**Música** (Clases de batería tomadas en 2012). +
+**Associación motociclista** (participación de 2010 à 2012) con enfoque cultura y preventivo. http://www.evasionmoto34.com/[Évasion Moto].
 ====
