@@ -9,7 +9,7 @@ Julien BONFILLON - Implementation for Operation, Testing and Certification <juli
 ====
 image:img/profile.jpg[Profile, 110, role="left"]
 French, 31, Almost married +
-icon:volume-up[] FR - EN - ES
+icon:volume-up[] indexFr.html[FR] - index.html[EN] - ES
 
 icon:phone[] +33(9) 7040 8240 +
 icon:mobile[] +52(1)55 2570 2063 +
