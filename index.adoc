@@ -1,4 +1,4 @@
-= Solutions Developper - Transactions / Banking
+= Solutions Developer - Transactions / Banking
 Julien BONFILLON - Implementation for Operation, Testing and Certification <julien.bonfillon@gmail.com>
 :icons: font
 //:toc:left
@@ -9,7 +9,7 @@ Julien BONFILLON - Implementation for Operation, Testing and Certification <juli
 ====
 image:img/profile.jpg[Profile, 110, role="left"]
 French, 31, Almost married +
-icon:volume-up[] link:indexFr.html[FR] - link:index.html[EN] - ES
+icon:volume-up[] image:img/fr.png[French,link="https://julienbonfillon.github.io/indexFr.html"] link:indexFr.html[FR] - image:img/us.png[English,link="https://julienbonfillon.github.io/index.html"] link:index.html[EN] - ES
 
 icon:phone[] +33(9) 7040 8240 +
 icon:mobile[] +52(1)55 2570 2063 +
@@ -18,7 +18,7 @@ ____
 A 10 years experience in industrial, banking and retailing systems... +
 ____
 ____
-International colaborations , carrying about corporative and human values...
+International collaborations , carrying about corporative and human values...
 ____
 ====
 
@@ -29,7 +29,7 @@ ____
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|**Front-end Maintenance, Implementation, Definition & Participation** : JAVA Enterprise RESTful services & Server Side Datatable APIs  (Hibernate). Strong colaboration with pre-Sale, Web-designer and Software Arquitect in order to optimize and validate the project milestones delivery. 
+|**Front-end Maintenance, Implementation, Definition & Collaborative Participation** : JAVA Enterprise RESTful services & Server Side Datatable APIs  (Hibernate). Strong colaboration with pre-Sale, Web-designer and Software Arquitect in order to optimize and validate the project milestones delivery. 
 |**Back-end products** : Multi-modal ligthweight and modular JAVA Notification product, with strong integration possibilities (API, per Message Queue, standalone or in Application Server) using Apache CAMEL and Spring.
 |**Strong investigation about Continued Integration methods** : Study of Maven artefacting methods and Private Sonatype Nexus in order to separate source code storing and external dependencies of any JAVA packaging.
 |
@@ -43,7 +43,7 @@ ____
 |===
 |**E-Commerce Integration & Development (Prestashop), ASP.NET Services** : Payment Solutions, membership and related service (pre-paid telephonic plan, phone case personalization, prepaid multimedia content through Amazon CloudFront Services).
 |**MySQL Database Design** : Business Rules for Internet Payment, audit, membership & multimedia services.
-|**JAVA Tools Development** : Network systems monitor, conciliation files validation, Post Directions referencing and synchronization, Transactional Reporting (Tomcat web-services).
+|**JAVA Tools Development** : Network systems monitor, balance files validation, Post Directions referencing and synchronization, Transactionnal Reporting (Tomcat web-services).
 |
 |===
 ====
@@ -53,7 +53,7 @@ ____
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|**Terminal and Cards Test and Approval Tools** : EMV, VISA, MasterCard y American Express.
+|**Terminal and Cards Test and Approval Tools** : EMV, VISA, MasterCard and American Express.
 |**Issuing & Acquiring Host Simulators** : Qualification approval of the Discover Financial Services (DFS) and National Payment Corporation of India (NPCI) affiliated banks.
 |**Obtainment of Test Tools Qualification Agreements** : EMVCo, DFS y NPCI.
 |**International Customers Support and Training** : Workshops, Remote Support Sessions, Travels in France and to India.
@@ -83,18 +83,18 @@ ____
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|**Proactive Team interaction** +
+|**Pro-active Team Collaboration** +
 Fench (mother tongue), English (technical), Spanish (bilingual) +
 Internal communication and reporting +
 Milestone definition, matching with Implementation requirements
 
-|**Programmation Languages** +
-JAVA, C#, VB.NET, VB6, PHP5, SQL, C, C++, Javascript, jQuery; +
+|**Programming Languages** +
+JAVA, C#, VB.NET, VB6, PHP5, SQL, C, C++, JavaScript, jQuery; +
 HTML5/CSS3;
 
 |**APIs, Frameworks & Protocols** +
 JPA 2.0/2.1: Hibernate, JPA Modeling, JPQL, API Criteria and predication; +
-JMS : ActiveMQ, JBOss Rabit MQ and Web Logic MQ consuming; +
+JMS : ActiveMQ, Rabbit MQ and Web Logic MQ consuming; +
 SOAP, RestFul, HTTP, TCP/UDP IP; +
 Spring, Apache CAMEL;
 
@@ -118,9 +118,9 @@ Windows 2000/XP/7, RedHat Enterprise6, CentOS 7, IBM AIX;
 
 == Personal  Interests
 ====
-**Photography** (since 2011), fan of Canon products icon:flickr[] http://www.flickr.com/photos/julien-bonfillon/albums[Visit My Galery]. +
+**Photography** (since 2011), fan of Canon products icon:flickr[] http://www.flickr.com/photos/julien-bonfillon/albums[Visit My Gallery]. +
 **Environment** , reading & Following biologist and agricultors news : Claude Bourguignon, Pierre Rabhi, .... +
 **Psychology and self improvement**. +
-**Music** (drum clases in 2012). +
+**Music** (took drum classes in 2012). +
 **Motorcycle Association** (participated in 2010-2012) focused in culture and safety http://www.evasionmoto34.com/[Evasion Moto].
 ====

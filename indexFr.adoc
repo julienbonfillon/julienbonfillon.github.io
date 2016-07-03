@@ -1,5 +1,5 @@
 = Consultant Logiciel - Transactions / Bancaire
-Julien BONFILLON - Implémentations pour Opérations, Tests & Certifications <julien.bonfillon@gmail.com>
+Julien BONFILLON - Implémentations pour Opérations, Tests, Certifications <julien.bonfillon@gmail.com>
 :icons: font
 //:toc:left
 :figure-caption!:
@@ -9,7 +9,7 @@ Julien BONFILLON - Implémentations pour Opérations, Tests & Certifications <ju
 ====
 image:img/profile.jpg[Profile, 110, role="left"]
 French, 31, Bientôt marié +
-icon:volume-up[] link:indexFr.html[FR] - link:index.html[EN] - ES
+icon:volume-up[] image:img/fr.png[French,link="https://julienbonfillon.github.io/indexFr.html"] link:indexFr.html[FR] - image:img/us.png[English,link="https://julienbonfillon.github.io/index.html"] link:index.html[EN] - ES
 
 icon:phone[] +33(9) 7040 8240 +
 icon:mobile[] +52(1)55 2570 2063 +
@@ -24,14 +24,14 @@ ____
 
 == Expérience professionnelle
 
-=== Développeur Solutions: Implémentation front-end et Services en messagerie financière
-===== **__Since 2015 - Volante Technologies México: Logiciels d'intégration de messages de données financières (Mexico City – MEXICO)__**
+=== Développeur Solutions: Implémentations Front-end, Services en Messagerie Financière
+===== **__Since 2015 - Volante Technologies México: Logiciels d'Intégration de Messages de Données Financières (Mexico City – MEXICO)__**
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===
 |**Front-end: Définitions, implémentation et maintenance collaborative** : Services RESTful JAVA Enterprise & API Server Datatable  (Hibernate). Étroite collaboration avec les pôles avant-vente, web-design et architecture logicielle dans le but de valider et optimiser la libération des différents milestones . 
 |**Back-end** : Module d'alertes & notifications JAVA, multi-modal, léger et modulaire, avec de fortes possibilités d'intégration (sous forme d'API, Message Queue, en standalone or en Serveur d'application) usant Apache CAMEL et Spring.
-|**Forte investigation sur les méthodes d'Integration Continue** : Etude de la compilation via Maven and d'un serveur privé Sonatype Nexus, dans le but de séparer le code source et les dépendances externes au sein d'un paquetage JAVA.
+|**Forte investigation sur les méthodes d'Integration Continue** : Étude de la compilation via Maven couplée à un serveur privé Sonatype Nexus, dans le but de séparer le code source et les dépendances externes au sein d'un projet JAVA SE/EE.
 |
 |===
 ====
@@ -43,7 +43,7 @@ ____
 |===
 |**Intégration de CMS E-Commerce & Développements (Prestashop), Services ASP.NET** : Solutions de paiement, adhésions et services associés (recharges téléphoniques pré-payées, coques de téléphones personnalisables, contenu multimédia pré-payé usant du service Amazon CloudFront).
 |**Modélisation de bases de données MySQL** : Regles commerciales pour le paiement par Internet, Audit, adhésions & services multimédia.
-|**Développement d'outils JAVA** : Moniteur de Systèmes en Réseau, Validation d'archives de conciliation transactionnelle, Référencement&Synchronisation de référencement de codes postaux, Reporting transactionnel (Tomcat web-services).
+|**Développement d'outils JAVA** : Moniteur de Systèmes en Réseau, Validation d'archives de conciliation transactionnelle, Référencement & Synchronisation de codes postaux, Reporting transactionnel (web-services TOMCAT).
 |
 |===
 ====
@@ -53,24 +53,24 @@ ____
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|**Terminal and Cards Test and Approval Tools** : EMV, VISA, MasterCard y American Express.
-|**Issuing & Acquiring Host Simulators** : Qualification approval of the Discover Financial Services (DFS) and National Payment Corporation of India (NPCI) affiliated banks.
-|**Obtainment of Test Tools Qualification Agreements** : EMVCo, DFS y NPCI.
-|**International Customers Support and Training** : Workshops, Remote Support Sessions, Travels in France and to India.
+|**Suites de Tests & Certification Terminal** : EMV, VISA, MasterCard et American Express.
+|**Suites de Tests & Certification de Serveurs Acquéreur et Émetteurs** : Banques affiliées à "Discover Financial Services" (DFS) et "National Payment Corporation of India" (NPCI).
+|**Obtention des agréments comme Outils de Tests** : EMVCo, DFS y NPCI.
+|**Support International et Capacitation des Clients** : Ateliers participatids, Sessions de Support a Distance, Voyages en France et en Inde.
 |===
 ====
 
-=== Developer: Industrial Automatism (Unix and Windows Systems)
-===== **__2006 - 2008 - Axiome Concept: Centralized Building Management Systems (Cannes - FRANCE)__**
+=== Developeur: Automatisme Industriels (Unix and Windows Systems)
+===== **__2006 - 2008 - Axiome Concept: Systèmes de Gestion Technique Centralisée et de Bâtiments (Cannes - FRANCE)__**
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|**Communication Software for building management** : Interphones, access control, lighting (numeric control, RS, IP, MODBUS...).
-|**Video Acquisition for centralized management software** : MPEG4/MJPEG cameras over IP.
+|**Modules d'Interface pour la Gestion d'Édifices** : Interphones, Contrôle d'Accès, Éclairage (numérique, RS, IP, MODBUS...).
+|**Modules d'Acquisition vidéo pour Superviseur Graphique** : MPEG4/MJPEG caméras IP.
 |===
 ====
 
-== Formation académique
+== Formation Académique
 ====
 .icon:check[] Licence professionnelle Réseaux & Télécommunication – Option Ingénierie des Systèmes Embarqués
 2006 Université de Nice - Sophia Antipolis (NICE - FRANCE).
@@ -86,7 +86,7 @@ ____
 |**Intéraction Proactive et Travail d'Équipe** +
 Français (langue natale), Anglais (technique), Espagnol (bilingue) +
 Communication et comptes rendus à l'international +
-Definition de Milestones, validation de l'implémentation de pré-requis
+Definition de Milestones, Analyse de pré-requis et validation d'implémentation
 
 |**Languages de Programmation** +
 JAVA, C#, VB.NET, VB6, PHP5, SQL, C, C++, Javascript, jQuery; +
@@ -94,7 +94,7 @@ HTML5/CSS3;
 
 |**APIs, Frameworks & Protocols** +
 JPA 2.0/2.1: Hibernate, JPA Modeling, JPQL, critères et prédicats de Requête via API; +
-JMS : Consommation de Queues de Messagerie ActiveMQ, JBOss Rabit MQ et Web Logic; +
+JMS : Consommation de Queues de Messagerie ActiveMQ, Rabbit MQ et Web Logic; +
 SOAP, RESTful, HTTP, TCP/UDP IP; +
 Spring, Apache CAMEL;
 
@@ -118,7 +118,7 @@ Windows 2000/XP/7, RedHat Enterprise6, CentOS 7, IBM AIX;
 
 == Intêrets Personnels
 ====
-**Photographie* (depuis 2011), fan des produits Canon icon:flickr[] http://www.flickr.com/photos/julien-bonfillon/albums[Ma Galerie]. +
+**Photographie** (depuis 2011), fan des produits Canon icon:flickr[] http://www.flickr.com/photos/julien-bonfillon/albums[Ma Galerie]. +
 **Environnement** , Documentation / actualité agricole et biologique : Claude Bourguignon, Pierre Rabhi, .... +
 **Psychologie et développement personnel**. +
 **Musique** (Cours de batterie pris en 2012). +
