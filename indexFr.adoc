@@ -26,7 +26,6 @@ ____
 
 === Développeur Solutions: Implémentations Front-end & Services en Messagerie Financière
 ===== **__Depuis 2015 - link:http://www.volantetech.com/[Volante Technologies México] : Logiciels d'Intégration de Messages de Données Financières (Mexico City – MEXICO)__**
-====
 [cols="2*",frame=none,grid=none,caption=]
 |===
 |**Front-end: Définitions, implémentation et maintenance collaborative** : Services RESTful JAVA Enterprise & API Server Datatable  (Hibernate). Étroite collaboration avec les pôles avant-vente, web-design et architecture logicielle dans le but de valider et optimiser la libération des différents milestones . 
@@ -34,11 +33,9 @@ ____
 |**Forte investigation sur les méthodes d'Integration Continue** : Étude de la compilation via Maven couplée à un serveur privé Sonatype Nexus, dans le but de séparer le code source et les dépendances externes au sein d'un projet JAVA SE/EE.
 |
 |===
-====
 
 === Analyste/Developpeur: Outils et services en environnements transactionels et logistiques
 ===== **__2014-2015 - link:http://www.e-networkx.com/PageEnet/index.html[e-Networkx] : Infrastructures Transactionnelles et Ingénierie Informatique (Mexico City – MEXICO)__**
-==== 
 [cols="2*",frame=none,grid=none,caption=]
 |===
 |**Intégration de CMS e-Commerce & Développements (Prestashop), Services ASP.NET** : Solutions de paiement, adhésions et services associés (recharges téléphoniques pré-payées, coques de téléphones personnalisables, contenu multimédia pré-payé usant du service Amazon CloudFront).
@@ -46,11 +43,9 @@ ____
 |**Développement d'outils JAVA** : Moniteur de Systèmes en Réseau, Validation d'archives de conciliation transactionnelle, Référencement & Synchronisation de codes postaux, Reporting transactionnel (web-services TOMCAT).
 |
 |===
-====
 
 === Consultant Logiciel: Solutions de Simulation, Test et Certification de Systèmes de Bancaires et de Paiement 
 ===== **__2008-2014 - link:https://www.galitt.com/[Galitt]: Flux Transactionnels électroniques, Simulation de Cartes, Terminaux & Hosts (FRONTIGNAN - FRANCE)__**
-====
 [cols="2*",frame=none,grid=none,caption=]
 |===
 |**Suites de Tests & Certification Terminal** : EMV, VISA, MasterCard et American Express.
@@ -58,17 +53,14 @@ ____
 |**Obtention des agréments comme Outil de Test** : EMVCo, DFS y NPCI.
 |**Support International et Capacitation des Clients** : Ateliers participatifs, Sessions de Support a Distance, Voyages en France et en Inde.
 |===
-====
 
 === Developeur: Automatisme Industriels (Systèmes Unix & Windows)
 ===== **__2006 - 2008 - link:http://www.axiomeconcept.com/[Axiome Concept] : Systèmes de Gestion Technique Centralisée et de Bâtiments (Cannes - FRANCE)__**
-====
 [cols="2*",frame=none,grid=none,caption=]
 |===
 |**Modules d'Interface pour la Gestion d'Édifices** : Interphones, Contrôle d'Accès, Éclairage (numérique, RS, IP, MODBUS...).
 |**Modules d'Acquisition vidéo pour Superviseur Graphique** : MPEG4/MJPEG caméras IP.
 |===
-====
 
 == Formation Académique
 ====

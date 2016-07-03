@@ -26,7 +26,6 @@ ____
 
 === Solutions Developer: Front-end Implementation and Services in financial messaging
 ===== **__Since 2015 - link:http://www.volantetech.com/[Volante Technologies México] : Financial Data Message Integration Software (Mexico City – MEXICO)__**
-====
 [cols="2*",frame=none,grid=none,caption=]
 |===
 |**Front-end Maintenance, Implementation, Definition & Collaborative Participation** : JAVA Enterprise RESTful services & Server Side Datatable APIs  (Hibernate). Strong colaboration with pre-Sale, Web-designer and Software Arquitect in order to optimize and validate the project milestones delivery. 
@@ -34,11 +33,9 @@ ____
 |**Strong investigation about Continued Integration methods** : Study of Maven artifacting methods and Private Sonatype Nexus in order to separate source code storing and external dependencies of any JAVA packaging.
 |
 |===
-====
 
 === Analyst/Developer: Tools and services in transactional and logistic environment
-===== **__2014-2015 - link:http://www.e-networkx.com/PageEnet/index.html[e-Networkx] : Transactional Infrastructures and Informatics Engineering (Mexico City – MEXICO)__**
-==== 
+===== **__2014-2015 - link:http://www.e-networkx.com/PageEnet/index.html[e-Networkx] : Transactional Infrastructures and Informatics Engineering (Mexico City – MEXICO)__** 
 [cols="2*",frame=none,grid=none,caption=]
 |===
 |**e-Commerce Integration & Development (Prestashop), ASP.NET Services** : Payment Solutions, membership and related service (pre-paid telephonic plan, phone case personalization, prepaid multimedia content through Amazon CloudFront Services).
@@ -46,11 +43,9 @@ ____
 |**JAVA Tools Development** : Network systems monitor, balance files validation, Post Directions referencing and synchronization, Transactionnal Reporting (Tomcat web-services).
 |
 |===
-====
 
 === Software Consultant: Simulation, Test and Qualification of Payment and Banking Systems 
 ===== **__2008-2014 - link:https://www.galitt.com/[Galitt] : Transactional flow, Cards, Terminal and Hosts Simulators (FRONTIGNAN - FRANCE)__**
-====
 [cols="2*",frame=none,grid=none,caption=]
 |===
 |**Terminal and Cards Test and Approval Tools** : EMV, VISA, MasterCard and American Express.
@@ -58,17 +53,14 @@ ____
 |**Obtainment of Test Tools Qualification Agreements** : EMVCo, DFS y NPCI.
 |**International Customers Support and Training** : Workshops, Remote Support Sessions, Travels in France and to India.
 |===
-====
 
 === Developer: Industrial Automatism (Unix and Windows Systems)
 ===== **__2006 - 2008 - link:http://www.axiomeconcept.com/[Axiome Concept] : Centralized Building Management Systems (Cannes - FRANCE)__**
-====
 [cols="2*",frame=none,grid=none,caption=]
 |===
 |**Communication Software for building management** : Interphones, access control, lighting (numeric control, RS, IP, MODBUS...).
 |**Video Acquisition for centralized management software** : MPEG4/MJPEG cameras over IP.
 |===
-====
 
 == Education
 ====

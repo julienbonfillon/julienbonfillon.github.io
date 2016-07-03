@@ -15,7 +15,7 @@ icon:phone[] +33(9) 7040 8240 +
 icon:mobile[] +52(1)55 2570 2063 +
 icon:skype[] julien.bonfillon - icon:linkedin[] https://www.linkedin.com/in/julienbonfillon[julienbonfillon] +
 ____
-10 de experiencia en sistemas industriales, bancarios y comerciales... +
+10 años de experiencia en sistemas industriales, bancarios y comerciales... +
 ____
 ____
 Colaboración internacional , cuidadoso ante los valores corporativos y humanos...
@@ -26,19 +26,16 @@ ____
 
 === Desarrollador de Soluciones: Implementación Front-end & Servicios en Mensajería Financiera
 ===== **__Desde 2015 - link:http://www.volantetech.com/[Volante Technologies México] : Software de Integración de Mensajes de datos Financieros (Ciudad de Mexico – MEXICO)__**
-====
 [cols="2*",frame=none,grid=none,caption=]
 |===
-|**Front-end: Definición, Implementación y Mantenimiento Colaborativo** : Servicios RESTful JAVA Enterprise & API Servidor para Datatable (Hibernate). Colaboración fuerte con los áreas de pre-venta, web-design y arquitectura software con el fín de validar y optimizar la liberación de los diferentes milestones . 
-|**Back-end** : Modulo de alertas & notificationes JAVA, multi-modal, lijero y modular, con fuertas posibilidades de integración (como API, via Colas de Mensaje, en standalone o en Servidores de aplicación) usando Apache CAMEL y Spring.
-|**Fuerte investigación en los métodos de Integración Continua** : Étude de la compilation via Maven couplée à un serveur privé Sonatype Nexus, dans le but de séparer le code source et les dépendances externes au sein d'un projet JAVA SE/EE.
+|**Front-end: Definición, Implementación y Mantenimiento Colaborativo : ** Servicios RESTful JAVA Enterprise & API Servidor para Datatable (Hibernate). Colaboración fuerte con los áreas de pre-venta, web-design y arquitectura software con el fín de validar y optimizar la liberación de los diferentes milestones.
+|**Back-end : **Modulo de alertas & notificationes JAVA, multi-modal, lijero y modular, con fuertas posibilidades de integración (como API, via Colas de Mensaje, en standalone o en Servidores de aplicación) usando Apache CAMEL y Spring.
+|**Fuerte investigación en los métodos de Integración Continua : ** Estudio de la compilación via Maven acoplada a un servidor privados Sonatype Nexus, con el fin de separar el código fuente y sus dependencias externasa en un proyecto JAVA SE/EE.
 |
 |===
-====
 
 === Analista/Desarrollador: Herramientas y servicios en ambiente transaccional y logístico
-===== **__2014-2015 - link:http://www.e-networkx.com/PageEnet/index.html[e-Networkx] : Infraestructuras Transaccionales e Ingenería Informática (Ciudad de México – MEXICO)__**
-==== 
+===== **__2014-2015 - link:http://www.e-networkx.com/PageEnet/index.html[e-Networkx] : Infraestructuras Transaccionales e Ingenería Informática (Ciudad de México – MEXICO)__** 
 [cols="2*",frame=none,grid=none,caption=]
 |===
 |**Integración de CMS e-Commerce & Desarrollo (Prestashop), Servicios ASP.NET** : Soluciones de Pago, Membresía y Servicios afiliados (pre-pago telefónico, fondas personalizadas de celular, contenido multimedia pre-pagado explotando el servicio Amazon CloudFront).
@@ -46,11 +43,9 @@ ____
 |**Desarrollo de herramientas JAVA** : Monitor de Systemas en Redes, Validación de archivos de conciliación transaccional, Analisis & Syncronización de códigos postles, reportes transaccionales (web-services TOMCAT).
 |
 |===
-====
 
 === Consultor Software: Soluciones de Simulación, Prueba y Certificación de Sistemas Bancarios y de Pago 
 ===== **__2008-2014 - link:https://www.galitt.com/[Galitt]: Flujos Transaccionales Electrónicos, Simulación de Tarjetas, Terminales & Hosts (Frontignan&Paris - FRANCIA)__**
-====
 [cols="2*",frame=none,grid=none,caption=]
 |===
 |**Ambientes de Prueba & Certificación para Tarjetas y Terminales:** : EMV, VISA, MasterCard, American Express.
@@ -58,17 +53,14 @@ ____
 |**Obtención de Certificaciones como Herramienta Oficial** : EMVCo, DFS y NPCI.
 |**Formación y Soporte técnico de los Clientes al Internacional** : talleres interactivos, sesiones remotas, viajes en Francia y a India.
 |===
-====
 
 === Desarrollador: Autómatas Industriales (Sistemas Unix & Windows)
 ===== **__2006 - 2008 - link:http://www.axiomeconcept.com/[Axiome Concept] : Gestión técnica multimedia de estacionamientos, hospitales, aeropuertos (Cannes - FRANCIA)__**
-====
 [cols="2*",frame=none,grid=none,caption=]
 |===
 |**Interfaces con equipos de edificios** :  intercomunicadores, control de acceso, iluminación (numérico, RS, IP, MODBUS...).
 |**Modulo visual para supervisor gráfico:** : MPEG4/MJPEG cameras IP.
 |===
-====
 
 == Formation Académica
 ====
@@ -79,7 +71,7 @@ ____
 2003 – 2005	Universidad de Niza - Sophia Antipolis (Niza - FRANCIA).
 ====
 
-== Áreas de habilidades
+== Habilidades
 ====
 [cols="2*",frame=none,grid=none,caption=]
 |===
@@ -118,7 +110,7 @@ Windows 2000/XP/7, RedHat Enterprise6, CentOS 7, IBM AIX;
 
 == Otros Intereses
 ====
-**Photograpfía** (desde 2011), aficionado de los productos de la marca "Canon" icon:flickr[] http://www.flickr.com/photos/julien-bonfillon/albums[Mi galería]. +
+**Fotografía** (desde 2011), aficionado de los productos de la marca "Canon" icon:flickr[] http://www.flickr.com/photos/julien-bonfillon/albums[Mi galería]. +
 **Medio ambiente** , Lectura de documentaciones / actualidad agrícola y biológica : Claude Bourguignon, Pierre Rabhi, .... +
 **Psychologiá y desarrollo personal**. +
 **Música** (Clases de batería tomadas en 2012). +
