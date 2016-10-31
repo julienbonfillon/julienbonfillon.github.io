@@ -7,7 +7,7 @@ Julien BONFILLON - Implémentations pour Opérations, Tests, Certifications <jul
 :quick-uri: https://julienbonfillon.github.io
 
 ====
-image:img/profile.jpg[Profile, 110, role="left"]
+image:img/profile.jpg[Profile, 90, role="left"]
 Français, 31 ans, Bientôt marié +
 image:img/fr.png[Français,link="indexFr.html"] link:indexFr.html[FR] - image:img/us.png[English,link="index.html"] link:index.html[EN] - image:img/es.png[Español,link="indexEs.html"] link:indexEs.html[ES]
 

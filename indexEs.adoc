@@ -1,13 +1,13 @@
 = Consultor Software - Transacciones / Bancario
 Julien BONFILLON - Implementación para Operaciones, Pruebas, Certificación <julien.bonfillon@gmail.com>
 :icons: font
-//:toc:left
 :figure-caption!:
 :hide-uri-scheme:
 :quick-uri: https://julienbonfillon.github.io
+//:toc:left
 
 ====
-image:img/profile.jpg[Perfil, 110, role="left"]
+image:img/profile.jpg[Perfil, 90, role="left"]
 Françés, 31 años, Próximamente casado +
 image:img/fr.png[Français,link="indexFr.html"] link:indexFr.html[FR] - image:img/us.png[English,link="index.html"] link:index.html[EN] - image:img/es.png[Español,link="indexEs.html"] link:indexEs.html[ES]
 
