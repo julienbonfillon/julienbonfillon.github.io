@@ -30,7 +30,7 @@ ____
 |===
 |**__icon:check[] Front-end Maintenance, Implementation, Definition & Collaborative Participation:__** JAVA Enterprise RESTful services & Server Side Datatable APIs  (Hibernate). Strong colaboration with pre-Sale, Web-designer and Software Arquitect in order to optimize and validate the project milestones delivery. 
 |**__icon:check[] Back-end products:__** Multi-modal ligthweight and modular JAVA Notification product, with strong integration possibilities (API, per Message Queue, standalone or in Application Server) using Apache CAMEL and Spring.
-|**__icon:check[] Strong investigation about Continued Integration methods:__** Study of Maven artifacting methods and Private Sonatype Nexus in order to separate source code storing and external dependencies of any JAVA packaging.
+|**__icon:check[] Strong investigation about Continuous Integration methods:__** Study of Maven artifacting methods and Private Sonatype Nexus in order to separate source code storing and external dependencies of any JAVA packaging.
 |
 |===
 

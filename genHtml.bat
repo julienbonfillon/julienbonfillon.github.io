@@ -1,0 +1,1 @@
+asciidoctor -a stylesheet=foundation.css -a stylesdir=..\asciidoctor-stylesheet-factory\stylesheets index.adoc indexFr.adoc indexEs.adoc
